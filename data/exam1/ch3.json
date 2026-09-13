@@ -538,5 +538,491 @@
     "correctStreak": 0,
     "lastSeen": null,
     "dueAt": null
+  },
+  {
+    "id": "ch3-s2-001",
+    "chapter": 3,
+    "set": 2,
+    "question": "You have a piece of copper bonded to a piece of silicon. Which of the two materials will expand more when the combined object is heated?",
+    "options": [
+      "silicon",
+      "copper",
+      "both expand the same",
+      "silicon does not expand",
+      "copper does not expand"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-002",
+    "chapter": 3,
+    "set": 2,
+    "question": "You have a piece of E-glass bonded to a piece of silicon. Which of the two materials will expand more when the combined object is heated?",
+    "options": [
+      "E-glass",
+      "silicon",
+      "both expand the same",
+      "silicon does not expand",
+      "E-glass does not expand"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-003",
+    "chapter": 3,
+    "set": 2,
+    "question": "You have a piece of E-glass bonded to a piece of copper. Which of the two materials will expand more when the combined object is heated?",
+    "options": [
+      "copper",
+      "E-glass",
+      "both expand the same",
+      "copper does not expand",
+      "E-glass does not expand"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-004",
+    "chapter": 3,
+    "set": 2,
+    "question": "The equilibrium bond-length of NaCl is determined by a balance between a __ force of __ and a separate force of __.",
+    "options": [
+      "Coulombic; repulsion; repulsion",
+      "Coulombic; attraction; repulsion",
+      "Coulombic; attraction; attraction",
+      "thermal; attraction; repulsion",
+      "magnetic; repulsion; attraction"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-005",
+    "chapter": 3,
+    "set": 2,
+    "question": "When the two forces that are acting on the Na and Cl atoms (inside a NaCl crystal) balance each other, the crystal has __ energy.",
+    "options": [
+      "zero",
+      "infinite",
+      "the lowest",
+      "the highest",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-006",
+    "chapter": 3,
+    "set": 2,
+    "question": "The equilibrium bond length for NaCl (table salt) is __ nm.",
+    "options": ["2800", "280", "28", "0.28", "0.00028"],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-007",
+    "chapter": 3,
+    "set": 2,
+    "question": "The Atomic-bonding Force curve presents the __, __ and __ forces acting on the atoms in a material, as a function of the __.",
+    "options": [
+      "ionic; covalent; van der Waals; interatomic-distance",
+      "ionic; covalent; van der Waals; atomic-sizes",
+      "attractive; repulsive; net; interatomic-distance",
+      "attractive; repulsive; net; atomic-sizes",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-008",
+    "chapter": 3,
+    "set": 2,
+    "question": "In the Atomic-bonding Force curve, the equilibrium separation between atoms occurs when the net force is __.",
+    "options": ["positive", "negative", "infinite", "covalent", "zero"],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-009",
+    "chapter": 3,
+    "set": 2,
+    "question": "The Atomic-bonding Potential-Well (for a given material) is visible in the plot of __ versus __ for that material.",
+    "options": [
+      "kinetic energy; interatomic separation",
+      "kinetic energy; atomic size",
+      "potential energy; atomic size",
+      "potential energy; interatomic separation",
+      "kinetic energy; potential energy"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-010",
+    "chapter": 3,
+    "set": 2,
+    "question": "The interatomic potential energy is given by the __ of the net-force curve with respect to __.",
+    "options": [
+      "slope; distance",
+      "integral; distance",
+      "slope; atomic size",
+      "integral; atomic size",
+      "integral; covalence"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-011",
+    "chapter": 3,
+    "set": 2,
+    "question": "On the energy versus interatomic-distance plot, a deeper potential-energy-well depth (for a given material) results in __ bonding.",
+    "options": ["stronger", "weaker", "infinite", "no", "none of the above"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-012",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major kinds of atomic bonding, __ bonding has the shallowest potential-energy well.",
+    "options": ["covalent", "Van Der Waals", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-013",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major kinds of atomic bonding, __ has the weakest bond-strength.",
+    "options": ["Van Der Waals", "covalent", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-014",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major kinds of atomic bonding, __ bonding has the deepest potential-energy well.",
+    "options": ["Van der Waals", "covalent", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-015",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major kinds of atomic bonding, __ bonding has highest bond-strength.",
+    "options": ["Van Der Waals", "covalent", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-016",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major types of atomic bonding, __ bonding has the second (deeper) potential-well depth, as we move from the shallowest well to the deepest well.",
+    "options": ["Van Der Waals", "covalent", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-017",
+    "chapter": 3,
+    "set": 2,
+    "question": "Of the four major types of atomic bonding, __ bonding has the third (deeper) potential-well depth, as we move from the shallowest well to the deepest well.",
+    "options": ["Van Der Waals", "covalent", "ionic", "metallic", "hydrogen"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-018",
+    "chapter": 3,
+    "set": 2,
+    "question": "Van Der Waals bonding is __ metallic bonding.",
+    "options": [
+      "stronger than",
+      "weaker than",
+      "the same strength as",
+      "stiffer than",
+      "tougher than"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-019",
+    "chapter": 3,
+    "set": 2,
+    "question": "Metallic bonding is __ covalent bonding.",
+    "options": [
+      "stronger than",
+      "as strong as",
+      "weaker than",
+      "stiffer than",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-020",
+    "chapter": 3,
+    "set": 2,
+    "question": "Ionic bonding is __ covalent bonding.",
+    "options": [
+      "stronger than",
+      "weaker than",
+      "the same strength as",
+      "more flexible than",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-021",
+    "chapter": 3,
+    "set": 2,
+    "question": "As the bond-strength increases, the stiffness of the material __.",
+    "options": [
+      "decreases",
+      "stays the same",
+      "increases",
+      "increases then decreases",
+      "decreases then increases"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-022",
+    "chapter": 3,
+    "set": 2,
+    "question": "As the bond-strength increases, the melting point of the material __.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "increases then decreases",
+      "decreases then increases"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-023",
+    "chapter": 3,
+    "set": 2,
+    "question": "As the bond-strength increases, the coefficient of thermal expansion of the material __.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "increases then decreases",
+      "decreases then increases"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-024",
+    "chapter": 3,
+    "set": 2,
+    "question": "If the atomic potential-energy-well of material-1 is deeper than that of material-2, the melting temperature of the material-1 is __ that of material-2.",
+    "options": [
+      "lower than",
+      "the same",
+      "infinite compared to",
+      "higher than",
+      "zero compared to"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-025",
+    "chapter": 3,
+    "set": 2,
+    "question": "If the atomic potential-energy-well of material-1 is deeper than that of material-2, the coefficient of thermal expansion of material-1 is __ that of material-2.",
+    "options": [
+      "larger than",
+      "smaller than",
+      "the same as",
+      "infinite compared to",
+      "zero compared to"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-026",
+    "chapter": 3,
+    "set": 2,
+    "question": "If the atomic bond-strength of material-1 is greater than that of material-2, the coefficient of thermal expansion of material-1 is __ that of material-2.",
+    "options": [
+      "larger than",
+      "smaller than",
+      "the same as",
+      "infinite compared to",
+      "zero compared to"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-027",
+    "chapter": 3,
+    "set": 2,
+    "question": "If the force versus interatomic-distance curve of material-1 has a lower slope at its edge than that of material-2, the stiffness of material-1 is __ that of material-2.",
+    "options": [
+      "larger than",
+      "smaller than",
+      "the same as",
+      "infinite compared to",
+      "zero compared to"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-028",
+    "chapter": 3,
+    "set": 2,
+    "question": "Ceramics have __ melting points, and they require __ temperatures for sintering.",
+    "options": [
+      "high; low",
+      "low; high",
+      "low; low",
+      "high; high",
+      "infinite; infinite"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-029",
+    "chapter": 3,
+    "set": 2,
+    "question": "Polymers have __ melting points, and they require __ temperatures for polymer film blowing.",
+    "options": [
+      "low; high",
+      "low; low",
+      "high; low",
+      "high; high",
+      "zero; zero"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s2-030",
+    "chapter": 3,
+    "set": 2,
+    "question": "Glasses have __ melting points, and they require __ temperatures for glass-plate floating on molten tin.",
+    "options": [
+      "low; low",
+      "low; high",
+      "high; high",
+      "high; low",
+      "infinite; infinite"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
   }
 ]
