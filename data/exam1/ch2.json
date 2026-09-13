@@ -538,5 +538,456 @@
     "correctStreak": 0,
     "lastSeen": null,
     "dueAt": null
+  },
+  {
+    "id": "ch2-s2-001",
+    "chapter": 2,
+    "set": 2,
+    "question": "The orbital quantum number is commonly designated by the letters __ or the numbers __, where n is the corresponding principal quantum number.",
+    "options": [
+      "(s,p,d,f); (1,2,3,...n)",
+      "(s,p,d,f); (0,1,2,3..n-1)",
+      "(K,L,M,N,O...); (1,2,3...n)",
+      "(K,L,M,N,O...); (0,1,2,3...n)",
+      "(a,b,c,d); (1,2,3,...)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-002",
+    "chapter": 2,
+    "set": 2,
+    "question": "The principal quantum number is designated by the letter __.",
+    "options": ["p", "P", "q", "Q", "n"],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-003",
+    "chapter": 2,
+    "set": 2,
+    "question": "The orbital quantum number is designated by the lower-case letter __.",
+    "options": ["q", "o", "l (lower-case L)", "n", "N"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-004",
+    "chapter": 2,
+    "set": 2,
+    "question": "The outermost electrons in an atom are called __ electrons.",
+    "options": ["conduction", "conductive", "tensile", "valence", "quantum"],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-005",
+    "chapter": 2,
+    "set": 2,
+    "question": "The source of magnetism in Fe is __ that give the atom a net __ moment.",
+    "options": [
+      "unpaired; electrons; magnetic",
+      "paired; electrons; electric",
+      "unpaired; protons; electric",
+      "paired; electrons; electric",
+      "paired; protons; magnetic"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-006",
+    "chapter": 2,
+    "set": 2,
+    "question": "In the Bohr model of the atom, the first shell can contain up to __ electrons.",
+    "options": ["2", "3", "4", "6", "8"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-007",
+    "chapter": 2,
+    "set": 2,
+    "question": "In the Bohr model of the atom, the second shell can contain up to __ electrons.",
+    "options": ["2", "3", "8", "4", "6"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-008",
+    "chapter": 2,
+    "set": 2,
+    "question": "In the Bohr model of the atom, the third shell can contain up to __ electrons.",
+    "options": ["2", "4", "8", "18", "36"],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-009",
+    "chapter": 2,
+    "set": 2,
+    "question": "Electrons fill the energy levels of an atom from the lowest-energy orbital shell upwards. On this basis, the first orbital shell to be filled is __.",
+    "options": ["1s", "1p", "1d", "2s", "2p"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-010",
+    "chapter": 2,
+    "set": 2,
+    "question": "Electrons fill the energy levels of an atom from the lowest-energy orbital shell upwards. On this basis, the second orbital shell to be filled is __.",
+    "options": ["1s", "2s", "1p", "1d", "2p"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-011",
+    "chapter": 2,
+    "set": 2,
+    "question": "Electrons fill the energy levels of an atom from the lowest-energy orbital shell upwards. On this basis, which shell 2p or 3s would be filled before the other?",
+    "options": [
+      "2p",
+      "3s",
+      "both are filled at the same time",
+      "neither shell is ever filled",
+      "electrons alternate between the two shells"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-012",
+    "chapter": 2,
+    "set": 2,
+    "question": "Electrons fill the energy levels of an atom from the lowest-energy orbital shell upwards. On this basis, which shell 3d or 4s would be filled before the other?",
+    "options": [
+      "3d",
+      "4s",
+      "both are filled at the same time",
+      "neither shell is ever filled",
+      "electrons alternate between the two shells"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-013",
+    "chapter": 2,
+    "set": 2,
+    "question": "If the Valence Shell of an atom is completely filled with electrons, that makes that atom __ and chemically __.",
+    "options": [
+      "unstable; inert",
+      "unstable; reactive",
+      "stable; reactive",
+      "stable; inert",
+      "metastable; reactive"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-014",
+    "chapter": 2,
+    "set": 2,
+    "question": "If the Valence Shell of an atom is NOT completely filled with electrons, that makes that atom __ and chemically __.",
+    "options": [
+      "unstable; inert",
+      "unstable; reactive",
+      "stable; reactive",
+      "stable; inert",
+      "metastable; reactive"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-015",
+    "chapter": 2,
+    "set": 2,
+    "question": "A valence shell that is NOT completely filled with electrons can attain __ by participating in electron __, __ or __.",
+    "options": [
+      "instability; transmutation; hoarding; delocalization",
+      "stability; transfer; sharing; delocalization",
+      "instability; transfer; hoarding; localization",
+      "metastability; transmutation; sharing; localization",
+      "metastability; transmutation; hoarding; delocalization"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-016",
+    "chapter": 2,
+    "set": 2,
+    "question": "The major groups of metals in the periodic table are the __, __, __, __, __ metals,",
+    "options": [
+      "primary; secondary; tertiary; quaternary; pentenary",
+      "columns 1; 2; 3; 4; 5",
+      "columns A; B; C; D; E",
+      "alkali; alkaline-earth, rare-earth, transition, acidic",
+      "alkali, alkaline-earth, rare-earth, transition, basic"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-017",
+    "chapter": 2,
+    "set": 2,
+    "question": "Helium, Neon and Argon have __ valence shells. This is why they are chemically inert (noble gases).",
+    "options": [
+      "empty",
+      "partially filled",
+      "partially empty",
+      "completely filled",
+      "positively charged"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-018",
+    "chapter": 2,
+    "set": 2,
+    "question": "Elements with completely filled valence shells are typically __ gases.",
+    "options": ["valence", "conduction", "noble", "ignoble", "reactive"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-019",
+    "chapter": 2,
+    "set": 2,
+    "question": "Elements that are just one electron short of a complete outer valence shell are __.",
+    "options": ["inert", "halogens", "noble", "hallucinogens", "insane"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-020",
+    "chapter": 2,
+    "set": 2,
+    "question": "Apart from hydrogen, elements that have just one electron in their valence shells are typically __.",
+    "options": [
+      "alkali metals",
+      "acidic metals",
+      "basic metals",
+      "alkali gases",
+      "alkali liquids"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-021",
+    "chapter": 2,
+    "set": 2,
+    "question": "Apart from Helium, elements that have two electrons in their valence shells are __.",
+    "options": [
+      "alkaline earth metals",
+      "acidic metals",
+      "basic metals",
+      "alkali gases",
+      "alkali metals"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-022",
+    "chapter": 2,
+    "set": 2,
+    "question": "Hydrogen has 1 proton. What is its electron configuration? __.",
+    "options": ["1s1", "1p1", "1d1", "1s2", "2s1"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-023",
+    "chapter": 2,
+    "set": 2,
+    "question": "Helium has 2 protons. What is its electron configuration? __.",
+    "options": ["1s1", "1s2", "1p1", "1p2", "2s2"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-024",
+    "chapter": 2,
+    "set": 2,
+    "question": "Lithium has 3 protons. What is its electron configuration? __.",
+    "options": ["1s1", "1s2", "1s2 2s1", "1s3", "3s3"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-025",
+    "chapter": 2,
+    "set": 2,
+    "question": "Sodium has 11 protons. What is its electron configuration? __.",
+    "options": [
+      "11s1",
+      "1s11",
+      "1s2 2s2 2p7",
+      "1s2 2s2 2p6 3s1",
+      "1s2 2s2 2p6 2d1"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-026",
+    "chapter": 2,
+    "set": 2,
+    "question": "The major kinds of atomic bonding are __, __, __, __ and __.",
+    "options": [
+      "atomic; electronic; protonic; neutronic; molecular",
+      "covalent, ionic, metallic, hydrogen, van der Waals",
+      "electronic, ionic, metallic, nitrogen, van der Waals",
+      "covalent, electronic, metallic, oxygen, van der Waals",
+      "covalent, ionic, electronic, hydrogen, nitrogen"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-027",
+    "chapter": 2,
+    "set": 2,
+    "question": "Metallic bonding results from a sea of __ binding the metal __.",
+    "options": [
+      "localized electrons; cations",
+      "localized electrons; anions",
+      "delocalized electrons; cations",
+      "delocalized electrons; anions",
+      "delocalized nuclei; atoms"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-028",
+    "chapter": 2,
+    "set": 2,
+    "question": "Ionic bonding results from __ of electrons.",
+    "options": ["transfer", "sharing", "hoarding", "charging", "discharging"],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-029",
+    "chapter": 2,
+    "set": 2,
+    "question": "Covalent bonding results from __ of electrons.",
+    "options": ["transfer", "hoarding", "charging", "sharing", "discharging"],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s2-030",
+    "chapter": 2,
+    "set": 2,
+    "question": "Van der Waals bonding results from temporary __ between polymer chains.",
+    "options": [
+      "transfer",
+      "hoarding",
+      "charging",
+      "dipole forces",
+      "unipolar forces"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
   }
+]
 ]
