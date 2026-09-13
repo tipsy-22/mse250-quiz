@@ -1,0 +1,531 @@
+[
+  {
+    "id": "ch5-s1-001",
+    "chapter": 5,
+    "set": 1,
+    "question": "Indices x,y,z are used to locate __ within a __.",
+    "options": [
+      "angles; unit cell",
+      "positions; unit cell",
+      "positions; amorphous cell",
+      "angles; amorphous cell",
+      "isotopes; unit cell"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-002",
+    "chapter": 5,
+    "set": 1,
+    "question": "Square brackets ([]) are used to identify the indices for __ directions.",
+    "options": [
+      "individual",
+      "families of",
+      "planes of",
+      "families of planes",
+      "superior"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-003",
+    "chapter": 5,
+    "set": 1,
+    "question": "Carat brackets (<>) are used to identify the indices for __ directions.",
+    "options": [
+      "individual",
+      "families of",
+      "planes of",
+      "families of planes",
+      "superior"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-004",
+    "chapter": 5,
+    "set": 1,
+    "question": "The letters __ are used to specify the indices of directions in a unit cell.",
+    "options": ["a,b,c", "x,y,z", "u,v,w", "1,2,3", "A,B,C"],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-005",
+    "chapter": 5,
+    "set": 1,
+    "question": "Engine turbine blades are made stronger and lighter by fabricating them using single-crystal __ that is oriented along the __ __ direction for FCC __.",
+    "options": [
+      "steel; [100]; close-packed; steel",
+      "copper; [111]; close-packed; copper",
+      "nickel; [100]; close-packed; nickel",
+      "nickel; [110]; close-packed; nickel",
+      "nickel; [111]; close-packed; nickel"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-006",
+    "chapter": 5,
+    "set": 1,
+    "question": "Computer chips are fabricated on __ wafers that are sliced from single-crystal __ along the __ direction.",
+    "options": [
+      "SiO2; SiO2; [100]",
+      "silicon; silicon; [100]",
+      "copper; copper; [110]",
+      "steel; steel; [111]",
+      "silicon; silicon; [110]"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-007",
+    "chapter": 5,
+    "set": 1,
+    "question": "Lasers that are used in CD players are typically manufactured using __ single crystals grown along the __ direction.",
+    "options": [
+      "Si; [100]",
+      "Si; [110]",
+      "Si; [111]",
+      "GaAs; [110]",
+      "GaAs; [100]"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-008",
+    "chapter": 5,
+    "set": 1,
+    "question": "Positions of atoms in a unit cell are designated by __, __ or the letters __.",
+    "options": [
+      "zero; infinity; ABC",
+      "integers; real numbers; ABC",
+      "fractions; integers; xyz",
+      "numbers; symbols; xyz",
+      "numbers; symbols; ABC"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-009",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a unit cell, lengths are designated along __, as measured from the origin at __, to the position at __.",
+    "options": [
+      "crystal directions; (1,0,0); (u,v,w)",
+      "unit-cell axes; (0,0,0); (x,y,z)",
+      "crystal directions; (1,1,1); (u,v,w)",
+      "crystal directions; (1,0,0); (x,y,z)",
+      "unit-cell axes; (0,0,0); (u,v,w)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-010",
+    "chapter": 5,
+    "set": 1,
+    "question": "The atom position 0,0,0 is at the __ of the unit cell.",
+    "options": ["end", "origin", "middle", "top corner", "side face"],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-011",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a cubic unit-cell, the atom position 1,0,0 is at a __ of the unit cell.",
+    "options": [
+      "corner",
+      "face-center",
+      "body-center",
+      "interstitial-center",
+      "substitutional-center"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-012",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a cubic unit-cell, the atom position 0,0,1 is at a __ of the unit cell.",
+    "options": [
+      "corner",
+      "face-center",
+      "body-center",
+      "interstitial-center",
+      "substitutional-center"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-013",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a cubic unit-cell, the atom position 1/2, 1/2, 0 is at a __ of the unit cell.",
+    "options": [
+      "corner",
+      "face-center",
+      "body-center",
+      "interstitial-center",
+      "substitutional-center"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-014",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a cubic unit-cell, the atom position 0, 1/2, 1/2 is at __ of the unit cell.",
+    "options": [
+      "corner",
+      "face-center",
+      "body-center",
+      "interstitial-center",
+      "substitutional-center"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-015",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a cubic unit-cell, the atom position 1/2, 1/2, 1/2 is at __ of the unit cell.",
+    "options": [
+      "corner",
+      "face-center",
+      "body-center",
+      "interstitial-center",
+      "substitutional-center"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-016",
+    "chapter": 5,
+    "set": 1,
+    "question": "Unit-cell directions are indicated by __, where __ are integers.",
+    "options": [
+      "[a b c]; a b c",
+      "[x y z]; x y z",
+      "[u v w]; u v w",
+      "[A B C]; A B C",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-017",
+    "chapter": 5,
+    "set": 1,
+    "question": "Negative indices in unit-cell directions are represented by a __ the u or v or w.",
+    "options": [
+      "bar above",
+      "minus before",
+      "minus after",
+      "square bracket",
+      "curly bracket"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-018",
+    "chapter": 5,
+    "set": 1,
+    "question": "The origin of a unit-cell direction is typically located at __.",
+    "options": [
+      "1,0,0",
+      "1,1,0",
+      "1,1,1",
+      "2,2,2",
+      "0,0,0"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-019",
+    "chapter": 5,
+    "set": 1,
+    "question": "A unit-cell direction is drawn to connect the origin point (0,0,0) to the coordinate-point (x,y,z) such that __, __ and __, where __ are the indices of the direction.",
+    "options": [
+      "x=u; y=v; z=w; u v w",
+      "x=u; y=v; z=w; x y z",
+      "x=ua; y=vb; z=wc; u v w",
+      "x=a; y=b; c=w; a b c",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-020",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a crystal lattice, the __ direction is that direction in the lattice where the atoms touch each other.",
+    "options": [
+      "simple cubic",
+      "close-packed",
+      "face centered cubic",
+      "body centered cubic",
+      "non-packed"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-021",
+    "chapter": 5,
+    "set": 1,
+    "question": "Crystal lattices deform __ along close-packed directions",
+    "options": [
+      "the easiest",
+      "with difficulty",
+      "never",
+      "always",
+      "in curved directions"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-022",
+    "chapter": 5,
+    "set": 1,
+    "question": "The closest-packed direction for a simple cubic lattice is along the __ of the lattice.",
+    "options": [
+      "face-diagonal",
+      "cube-edge",
+      "body-diagonal",
+      "edge-diagonal",
+      "body-center-edge"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-023",
+    "chapter": 5,
+    "set": 1,
+    "question": "The closest-packed direction for a face-centered cubic lattice is along the __ of the lattice.",
+    "options": [
+      "face-diagonal",
+      "cube-edge",
+      "body-diagonal",
+      "edge-diagonal",
+      "body-center-edge"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-024",
+    "chapter": 5,
+    "set": 1,
+    "question": "The closest-packed direction for a body-centered cubic lattice is along the __ of the lattice.",
+    "options": [
+      "face-diagonal",
+      "cube-edge",
+      "body-diagonal",
+      "edge-diagonal",
+      "body-center-edge"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-025",
+    "chapter": 5,
+    "set": 1,
+    "question": "In a unit-cell, families of directions are composed of unit-cell directions that are __.",
+    "options": [
+      "simple",
+      "complex",
+      "curved",
+      "equivalent",
+      "not-equivalent"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-026",
+    "chapter": 5,
+    "set": 1,
+    "question": "In the cubic system, members of a family of directions are given by __ of indices.",
+    "options": [
+      "ascending order",
+      "descending order",
+      "positive magnitudes",
+      "negative magnitudes",
+      "all possible permutations"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-027",
+    "chapter": 5,
+    "set": 1,
+    "question": "A family of directions in a unit-cell has the same __, the same __ and the same local __.",
+    "options": [
+      "properties; packing density; environment",
+      "indices; directions; structure",
+      "properties; packing indices; environment",
+      "indices; packing density; environment",
+      "properties; packing density; indices"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-028",
+    "chapter": 5,
+    "set": 1,
+    "question": "A family of directions in a unit-cell is denoted by integers in __.",
+    "options": [
+      "square brackets",
+      "angled brackets",
+      "curved parentheses",
+      "curly brackets",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-029",
+    "chapter": 5,
+    "set": 1,
+    "question": "Allotropy is the phenomenon where an element can exist in two different forms, with two different __.",
+    "options": [
+      "crystal structures",
+      "atoms",
+      "molecules",
+      "electrons",
+      "crystal atoms"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s1-030",
+    "chapter": 5,
+    "set": 1,
+    "question": "The number of atoms per unit cell are determined by the number of __ atoms + __ atoms + __ atoms.",
+    "options": [
+      "positive; negative; neutral",
+      "corner; lattice; crystal",
+      "corner; body; crystal",
+      "corner; face; crystal",
+      "corner; face; body"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
+  
