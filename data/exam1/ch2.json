@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ch2-s1-001",
+    "chapter": 2,
+    "set": 1,
+    "question": "What are the two kinds of particles in an atomic nucleus?",
+    "options": [
+      "protons; neutrons",
+      "electrons; protons",
+      "protons; electrons",
+      "photons; neutrons",
+      "photons; protons"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-002",
+    "chapter": 2,
+    "set": 1,
+    "question": "What kind of particles are in the outer shells of an atom?",
+    "options": [
+      "protons",
+      "electrons",
+      "neutrons",
+      "photons",
+      "neutrinos"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-003",
+    "chapter": 2,
+    "set": 1,
+    "question": "A proton is __ charged.",
+    "options": [
+      "not",
+      "negatively",
+      "positively",
+      "protonically",
+      "electronically"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-004",
+    "chapter": 2,
+    "set": 1,
+    "question": "A neutron is __ charged.",
+    "options": [
+      "not",
+      "negatively",
+      "positively",
+      "protonically",
+      "electronically"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-005",
+    "chapter": 2,
+    "set": 1,
+    "question": "An electron is __ charged.",
+    "options": [
+      "not",
+      "positively",
+      "neutrally",
+      "electronically",
+      "negatively"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-006",
+    "chapter": 2,
+    "set": 1,
+    "question": "A proton is approximately __ times the mass of an electron.",
+    "options": [
+      "180",
+      "1800",
+      "18",
+      "18000",
+      "180000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-007",
+    "chapter": 2,
+    "set": 1,
+    "question": "The atomic number is the number of __ in an atom's nucleus.",
+    "options": [
+      "neutrons",
+      "protons",
+      "electrons",
+      "electrons and protons",
+      "protons and neutrons"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-008",
+    "chapter": 2,
+    "set": 1,
+    "question": "The atomic mass is the mass of __ of a given element.",
+    "options": [
+      "a proton",
+      "an atom",
+      "a molecule",
+      "an Avogadro number of atoms",
+      "a mole"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-009",
+    "chapter": 2,
+    "set": 1,
+    "question": "An element's atomic structure includes __, __, __, __, and __.",
+    "options": [
+      "protons; neutrons; electrons; atomic photons; atomic weight",
+      "photons; neutrons; electrons; atomic number; atomic weight",
+      "protons; photons; electrons; atomic mass; atomic weight",
+      "protons; neutrons; photons; atomic mass; atomic weight",
+      "protons; neutrons; electrons; atomic number; atomic weight"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-010",
+    "chapter": 2,
+    "set": 1,
+    "question": "The periodic table presents the various __ arranged in __ and __.",
+    "options": [
+      "compounds; rows; columns",
+      "elements; squares; rectangles",
+      "compounds; lines; planes",
+      "elements; diagonals; cross-diagonals",
+      "elements; rows; columns"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-011",
+    "chapter": 2,
+    "set": 1,
+    "question": "The periodic table enables us to characterize trends in the following characteristics of the elements __, __, __, __, and __.",
+    "options": [
+      "atomic number, weight, size, electronegativity, valence",
+      "atomic conduction, weight, size, electromobility, valence",
+      "atomic number, gravity, size, electromobility, talents",
+      "atomic conduction, weight, size, electronegativity, valence",
+      "atomic resistance, gravity, size, electromobility, talents"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-012",
+    "chapter": 2,
+    "set": 1,
+    "question": "A material's bonding-type can be related to its __, __, and __ properties.",
+    "options": [
+      "ductility; thermal; electrical",
+      "mechanical; cohesiveness; electrical",
+      "mechanical; thermal; electrical",
+      "mechanical; thermal; mobility",
+      "conductivity; thermal; electrical"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-013",
+    "chapter": 2,
+    "set": 1,
+    "question": "The primary type of bonding in metals is __ bonding.",
+    "options": [
+      "metallic",
+      "ionic",
+      "conductive",
+      "covalent",
+      "van der Waals"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-014",
+    "chapter": 2,
+    "set": 1,
+    "question": "The type of bonding in ceramics is __ bonding.",
+    "options": [
+      "only covalent",
+      "covalent or ionic",
+      "Van der Waals",
+      "metallic",
+      "only ionic"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-015",
+    "chapter": 2,
+    "set": 1,
+    "question": "The primary types of bonding in thermoplastic polymers are __ bonding.",
+    "options": [
+      "polymer",
+      "plastic",
+      "1-D covalent, and van der Waals",
+      "only 1-D covalent",
+      "only van der Waals"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-016",
+    "chapter": 2,
+    "set": 1,
+    "question": "The atomic weight of an element is typically presented in units of __.",
+    "options": [
+      "Newtons",
+      "kilograms",
+      "grams",
+      "grams/mole",
+      "Newtons/mole"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-017",
+    "chapter": 2,
+    "set": 1,
+    "question": "The mass of an electron is __ kg.",
+    "options": [
+      "9.11 E-31",
+      "9.11",
+      "9.11 E31",
+      "911",
+      "9.11 E310"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-018",
+    "chapter": 2,
+    "set": 1,
+    "question": "An atomic mass unit is defined as __ the mass of a 12C atom.",
+    "options": [
+      "equal to",
+      "1/12",
+      "greater than",
+      "less than",
+      "12 times"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-019",
+    "chapter": 2,
+    "set": 1,
+    "question": "The atomic weight of an element the weight of __ atom/atoms of the element.",
+    "options": [
+      "6.022 E-23",
+      "6.022 E23",
+      "one",
+      "6.022",
+      "1E23"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-020",
+    "chapter": 2,
+    "set": 1,
+    "question": "A primary goal of science is to __ nature and __ its phenomena.",
+    "options": [
+      "study; create",
+      "understand; model",
+      "understand; create",
+      "create; model",
+      "describe; label"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-021",
+    "chapter": 2,
+    "set": 1,
+    "question": "The primary goal of engineering is to apply __ and __ to design and create new __, __, __, and __ to benefit society.",
+    "options": [
+      "science; art; performances; devices; organizations; processes",
+      "science; math; performances; devices; organizations; laws",
+      "science; art; components; devices; systems; laws",
+      "science; math; components; devices; systems; processes",
+      "science; art; performances; devices; organizations; processes"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-022",
+    "chapter": 2,
+    "set": 1,
+    "question": "Chemists use the Periodic Table to understand __, __, __ and __.",
+    "options": [
+      "bonding; nuclear reactions; thermochemistry; states of matter",
+      "branding; chemical reactions; nuclear-chemistry; solutions",
+      "bonding; nuclear reactions; thermochemistry; states of matter",
+      "branding; nuclear reactions; nuclear-chemistry; states of matter",
+      "bonding; chemical reactions; thermochemistry; solutions"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-023",
+    "chapter": 2,
+    "set": 1,
+    "question": "Engineers use the Periodic Table to understand how bond-strength impacts __ and __ of materials.",
+    "options": [
+      "processing; properties",
+      "color; taste",
+      "texture; fabrics",
+      "cost; availability",
+      "processing; texture"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-024",
+    "chapter": 2,
+    "set": 1,
+    "question": "Engineers use the Periodic Table to understand how Electronic-Structure impacts __ of materials.",
+    "options": [
+      "types of electrons",
+      "electronic properties",
+      "types of particles",
+      "mechanical properties",
+      "magnetic properties"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-025",
+    "chapter": 2,
+    "set": 1,
+    "question": "Engineers use the Periodic Table to understand how Solubility impacts __ of materials.",
+    "options": [
+      "phase diagrams and microstructure",
+      "phases and diagrams",
+      "electronic structure",
+      "mechanical properties",
+      "magnetic properties"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-026",
+    "chapter": 2,
+    "set": 1,
+    "question": "Engineers use the Periodic Table to understand how Diffusivity impacts __ of metals.",
+    "options": [
+      "phase diagrams and microstructure",
+      "electronic structure",
+      "heat treatment",
+      "mechanical properties",
+      "magnetic properties"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-027",
+    "chapter": 2,
+    "set": 1,
+    "question": "The electronic configuration of an atom is designated by the __ quantum number, the __ quantum number, and a listing of the number of __ in each shell.",
+    "options": [
+      "principal; subsidiary; electrons",
+      "macroscopic; microscopic; states",
+      "principal; subsidiary; states",
+      "macroscopic; microscopic; electrons",
+      "primary; secondary; tertiaries"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-028",
+    "chapter": 2,
+    "set": 1,
+    "question": "The principal quantum number indicates the __ for each shell.",
+    "options": [
+      "number of electrons",
+      "energy level",
+      "number of protons",
+      "number of states",
+      "number of energy levels"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-029",
+    "chapter": 2,
+    "set": 1,
+    "question": "The subsidiary quantum number indicates the __ of the electrons.",
+    "options": [
+      "energy level",
+      "orbitals",
+      "number of energy levels",
+      "number of orbitals",
+      "number of states"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch2-s1-030",
+    "chapter": 2,
+    "set": 1,
+    "question": "The principal quantum number is commonly designated by the letters __ or the numbers __.",
+    "options": [
+      "(s,p,d,f); (1,2,3,...)",
+      "(K,L,M,N,O...); (1,2,3...n)",
+      "(K,L,M,N,O...); (0,1,2,3...n)",
+      "(s,p,d,f); (0,1,2,3,...)",
+      "(a,b,c,d); (1,2,3,...)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
