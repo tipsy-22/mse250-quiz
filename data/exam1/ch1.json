@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch1-s1-001",
+    "chapter": 1,
+    "set": 1,
+    "question": "Why study the principles of materials science? They help us to __ new __ for use in __ applications.",
+    "options": [
+      "develop; materials; engineering",
+      "discover; forms of matter and energy; scientific",
+      "develop; forms of atomic particles; scientific",
+      "develop; forms of materials energy; engineering",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-002",
+    "chapter": 1,
+    "set": 1,
+    "question": "Materials have an impact on __ and __.",
+    "options": [
+      "civilization; future history",
+      "civilization; our daily lives",
+      "metals; ceramic atoms",
+      "metallic atoms; polymer atoms",
+      "atomic particles; sub-atomic particles"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-003",
+    "chapter": 1,
+    "set": 1,
+    "question": "The major material's families are __, __ and __.",
+    "options": [
+      "plastics; polymers; ceramics",
+      "metals; metalloids; ceramics",
+      "metals; polymers; ceramics",
+      "metals; polymers; wood",
+      "paper; polymers; wood"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-004",
+    "chapter": 1,
+    "set": 1,
+    "question": "A material's __ and __ affect the __ of objects made of that material.",
+    "options": [
+      "shape; processing; properties",
+      "structure; form; properties",
+      "structure; processing; consequence",
+      "structure; processing; properties",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-005",
+    "chapter": 1,
+    "set": 1,
+    "question": "Knowledge of a material's __ enable us to select the right __ for an engineering __ based on its __ requirements.",
+    "options": [
+      "constituents; material; component; design",
+      "properties; design; component; design",
+      "properties; material; application; design",
+      "shape; material; component; material",
+      "properties; material; component; design"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-006",
+    "chapter": 1,
+    "set": 1,
+    "question": "Materials benefit and advance civilization by providing the basis for __ and __ applications in a given society and culture.",
+    "options": [
+      "cultural; societal",
+      "science; scientific",
+      "science; engineering",
+      "cultural; technological",
+      "technology; technological"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-007",
+    "chapter": 1,
+    "set": 1,
+    "question": "What technological material and tools dominated human civilization from 9000 BC to 3000 BC? __ as a material, and tools made of __.",
+    "options": [
+      "paper; paper",
+      "stone; stone",
+      "rock; paper",
+      "bronze; bronze",
+      "iron; iron"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-008",
+    "chapter": 1,
+    "set": 1,
+    "question": "What technological material and tools dominated human civilization from 3000 BC to 1200 BC? __ as a material, and tools made of __.",
+    "options": [
+      "bronze; bronze",
+      "stone; stone",
+      "iron; iron",
+      "silicon; silicon",
+      "information; information"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-009",
+    "chapter": 1,
+    "set": 1,
+    "question": "What technological material and tools dominated human civilization from 1200 BC to 1860 AD? __ as a material, and tools made of __.",
+    "options": [
+      "bronze; bronze",
+      "stone; stone",
+      "iron; iron",
+      "copper; copper",
+      "silicon; silicon"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-010",
+    "chapter": 1,
+    "set": 1,
+    "question": "What technological material and tools dominated human civilization from 1971 to the present day? __ as a material, and __ made of __.",
+    "options": [
+      "bronze; tools; bronze",
+      "stone; flint hand-axe; stone",
+      "iron; iron",
+      "silicon; microchips; silicon",
+      "plastic; toys; plastic"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-011",
+    "chapter": 1,
+    "set": 1,
+    "question": "What technological materials are likely to most significantly impact human civilization in the 21st and 22nd centuries? __ and __.",
+    "options": [
+      "iron; steel",
+      "carbon; coal",
+      "solar power; solar energy",
+      "silicon; microchips",
+      "nanomaterials; nano-biomaterials"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-012",
+    "chapter": 1,
+    "set": 1,
+    "question": "What are the requirements for materials used for hip implants? __, __, __, and __.",
+    "options": [
+      "flexibility; cyclic endurance; hydrophobicity; vacuum compatibility",
+      "strength; cyclic endurance; lubricity; biocompatibility",
+      "inflexibility; cyclic failure; hydrophobicity; vacuum compatibility",
+      "strength; cyclic endurance; hydrophobicity; vacuum compatibility",
+      "flexibility; cyclic endurance; hydrophobicity; biocompatibility"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-013",
+    "chapter": 1,
+    "set": 1,
+    "question": "A hip implant needs a material __ to hold the acetabular cup in place.",
+    "options": [
+      "fixing agent",
+      "lubricant",
+      "compression",
+      "tension",
+      "bolt and nut"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-014",
+    "chapter": 1,
+    "set": 1,
+    "question": "A hip implant needs a __ material to __ the acetabular cup in action.",
+    "options": [
+      "glue; glue",
+      "lubricating; lubricate",
+      "fixing agent; fix",
+      "compressive; compress",
+      "tensile; tension"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-015",
+    "chapter": 1,
+    "set": 1,
+    "question": "A hip implant needs a material __ to __ the femoral stem to the femoral bone.",
+    "options": [
+      "lubricant; lubricate",
+      "compressor; compress",
+      "tensor; tension",
+      "fixing agent; glue",
+      "lubricant; compress"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-016",
+    "chapter": 1,
+    "set": 1,
+    "question": "The process for selection of a material (for a given application) include the material __ required in the application, the material __ and __ that will fulfill the __ requirements, and the kind of __ that fit the different materials for that application.",
+    "options": [
+      "energy; type; structure; property; shape processing",
+      "properties; energy; structure; property; shape processing",
+      "properties; type; energy; property; shape processing",
+      "properties; type; structure; shape; energy processing",
+      "properties; type; structure; property; shape processing"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-017",
+    "chapter": 1,
+    "set": 1,
+    "question": "Static lab-properties of a material include __, __, __ and __ properties.",
+    "options": [
+      "mechanical; thermal; electrical; optical",
+      "nuclear; thermal; electrical; optical",
+      "mechanical; optimal; electrical; optical",
+      "mechanical; thermal; suboptimal; optical",
+      "mechanical; thermal; electrical; superoptimal"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-018",
+    "chapter": 1,
+    "set": 1,
+    "question": "Application-related properties of a material include __, __, __ related properties.",
+    "options": [
+      "tensile loading; temperature; vacuum expansion",
+      "cyclic loading; tensile compression; corrosion",
+      "cyclic loading; temperature; corrosion",
+      "cyclic loading; temperature; vacuum expansion",
+      "compressive tension; pressure; corrosion"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-019",
+    "chapter": 1,
+    "set": 1,
+    "question": "The three major families of materials include __, __ and __.",
+    "options": [
+      "materials; ceramics; polymers",
+      "metals; ceramics; glasses",
+      "metals; metalloids; polymers",
+      "metals; ceramics; polymers",
+      "metals; plastics; polymers"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-020",
+    "chapter": 1,
+    "set": 1,
+    "question": "The structural features of a material include its __, __, and __.",
+    "options": [
+      "color; composition; atomic order",
+      "bonding; sound; atomic order",
+      "bonding; composition; taste",
+      "color; sound; taste",
+      "bonding; composition; atomic order"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-021",
+    "chapter": 1,
+    "set": 1,
+    "question": "Ceramic materials are shaped by __ ceramic __ at __ temperatures of __ degrees C.",
+    "options": [
+      "sintering; particles; high; > 600C",
+      "heating; solid; low; <200C",
+      "cooling; liquid; low; <200C",
+      "sintering; particles; low; <200C",
+      "sintering; particles; high; > 6000C"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-022",
+    "chapter": 1,
+    "set": 1,
+    "question": "Polymers are shaped by __ and __ at __ temperatures of __ degrees C.",
+    "options": [
+      "sintering; molding; moderate; ~200",
+      "melting; sintering; moderate; ~200",
+      "melting; molding; low; ~0",
+      "melting; molding; high; ~600",
+      "melting; molding; moderate; ~200"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-023",
+    "chapter": 1,
+    "set": 1,
+    "question": "Metals are often shaped by __ at __ temperature, about __ degrees C.",
+    "options": [
+      "melting; room; 25",
+      "deformation; room; 25",
+      "melting; moderate; 200",
+      "melting; high; 6000",
+      "deformation; high; 6000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-024",
+    "chapter": 1,
+    "set": 1,
+    "question": "The primary bonding in metals is __ bonding.",
+    "options": [
+      "1-D metallic",
+      "3-D metallic",
+      "1-D ionic",
+      "2-D covalent",
+      "3-D Van der Waals"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-025",
+    "chapter": 1,
+    "set": 1,
+    "question": "The bonding in thermoplastic polymers is __ bonding.",
+    "options": [
+      "1-D covalent + van der Waals",
+      "only 1-D covalent",
+      "only van der Waals",
+      "1-D metallic",
+      "3-D ionic"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-026",
+    "chapter": 1,
+    "set": 1,
+    "question": "The primary bonding in some ceramics is __ bonding.",
+    "options": [
+      "1-D metallic",
+      "3-D metallic",
+      "3-D covalent",
+      "van der Waals",
+      "1-D ionic"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-027",
+    "chapter": 1,
+    "set": 1,
+    "question": "The primary bonding in other ceramics is __ bonding.",
+    "options": [
+      "1-D covalent",
+      "1-D metallic",
+      "3-D metallic",
+      "3-D ionic",
+      "3-D van der Waals"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-028",
+    "chapter": 1,
+    "set": 1,
+    "question": "The mechanical properties of metals include __, __ and __.",
+    "options": [
+      "color; taste; touch",
+      "stiffness; strength; ductility",
+      "texture; conductivity; electronicity",
+      "electrons; protons; neutrons",
+      "mobility; carrier concentration; voltage"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-029",
+    "chapter": 1,
+    "set": 1,
+    "question": "The thermal properties of metals include __ conductivity.",
+    "options": [
+      "infinite electrical",
+      "good thermal",
+      "infinite thermal",
+      "poor electrical",
+      "poor thermal"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s1-030",
+    "chapter": 1,
+    "set": 1,
+    "question": "The electrical properties of metals include __ electrical __.",
+    "options": [
+      "good; stiffness",
+      "poor; strength",
+      "poor; conductivity",
+      "good; conductivity",
+      "infinite; conductivity"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-001",
+    "chapter": 1,
+    "set": 2,
+    "question": "The melting points of metals are __, but they deform at __ degrees C.",
+    "options": [
+      "moderately high; 25",
+      "zero; 100",
+      "infinite; 6000",
+      "very high; 100",
+      "moderately high; 6000"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-002",
+    "chapter": 1,
+    "set": 2,
+    "question": "Metals have primarily __ bonding.",
+    "options": [
+      "covalent",
+      "metallic",
+      "ionic",
+      "van der Waals",
+      "nuclear"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-003",
+    "chapter": 1,
+    "set": 2,
+    "question": "Thermoplastic polymers have __ bonding.",
+    "options": [
+      "only 1-D covalent",
+      "only 1-D van der Waals",
+      "1-D covalent + van der Waals",
+      "1-D metallic",
+      "1-D ionic + van der Waals"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-004",
+    "chapter": 1,
+    "set": 2,
+    "question": "The mechanical properties of polymers include __, __, __ and __.",
+    "options": [
+      "conductivity; ductility; low strength; low density",
+      "flexibility; low carrier concentrations; low strength; high density",
+      "flexibility; high carrier concentrations; low strength; high density",
+      "flexibility; ductility; low strength; low density",
+      "flexibility; ductility; high strength; high density"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-005",
+    "chapter": 1,
+    "set": 2,
+    "question": "The thermal properties of polymers include __ thermal __.",
+    "options": [
+      "good; conductivity",
+      "good; insulation",
+      "poor; insulation",
+      "good; carrier-concentrations",
+      "good; carrier-mobility"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-006",
+    "chapter": 1,
+    "set": 2,
+    "question": "The electrical properties of polymers include __ electrical __.",
+    "options": [
+      "good; conductivity",
+      "poor; insulation",
+      "good; carrier-concentrations",
+      "good; carrier-mobility",
+      "good; insulation"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-007",
+    "chapter": 1,
+    "set": 2,
+    "question": "The melting points of polymers are typically __.",
+    "options": [
+      "low",
+      "zero",
+      "infinite",
+      "greater than 600 degrees C",
+      "lower than minus 300 C"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-008",
+    "chapter": 1,
+    "set": 2,
+    "question": "Ceramics have primarily __ bonding.",
+    "options": [
+      "metallic",
+      "ceramical",
+      "ionic or covalent",
+      "only ionic",
+      "only covalent"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-009",
+    "chapter": 1,
+    "set": 2,
+    "question": "The mechanical properties of ceramics include __, __ and __.",
+    "options": [
+      "conductivity; strength in compression; brittleness in tension",
+      "stiffness; high carrier concentrations; brittleness in tension",
+      "stiffness; low carrier concentrations; brittleness in tension",
+      "stiffness; strength in compression; brittleness in tension",
+      "stiffness; strength in compression; electrical mobility in tension"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-010",
+    "chapter": 1,
+    "set": 2,
+    "question": "The thermal properties of ceramics include __ thermal __.",
+    "options": [
+      "good; conductivity",
+      "good; insulation",
+      "poor; insulation",
+      "good; carrier-concentrations",
+      "good; carrier-mobility"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-011",
+    "chapter": 1,
+    "set": 2,
+    "question": "The electrical properties of ceramics include __ electrical __.",
+    "options": [
+      "good; conductivity",
+      "poor; insulation",
+      "good; carrier-concentrations",
+      "good; carrier-mobility",
+      "good; insulation"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-012",
+    "chapter": 1,
+    "set": 2,
+    "question": "The melting points of ceramics are typically __.",
+    "options": [
+      "high",
+      "low",
+      "infinite",
+      "greater than 6000 degrees C",
+      "lower than minus 300 C"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-013",
+    "chapter": 1,
+    "set": 2,
+    "question": "The metals used in a light bulb include the __ base and __ filament.",
+    "options": [
+      "carbon; carbon",
+      "steel; tungsten",
+      "steel; steel",
+      "tungsten; steel",
+      "carbide; silicon"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-014",
+    "chapter": 1,
+    "set": 2,
+    "question": "The polymers used in a light bulb include the polymer ___.",
+    "options": [
+      "bulb",
+      "filament",
+      "filament post",
+      "base seal",
+      "electrical contacts"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-015",
+    "chapter": 1,
+    "set": 2,
+    "question": "The ceramics used in a light bulb include the ___ and the porcelain __ at the base of the filament posts.",
+    "options": [
+      "glass bulb; insulator",
+      "filament; insulator",
+      "base seal; conductor",
+      "electrical contacts; conductor",
+      "filament; conductor"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-016",
+    "chapter": 1,
+    "set": 2,
+    "question": "Wire drawing is used with __.",
+    "options": [
+      "ceramics",
+      "metals",
+      "plastics",
+      "porcelains",
+      "electrical bulbs"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-017",
+    "chapter": 1,
+    "set": 2,
+    "question": "Sintering is used with __.",
+    "options": [
+      "metals",
+      "plastics",
+      "ceramics",
+      "metalloids",
+      "vulcanized elastomers"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-018",
+    "chapter": 1,
+    "set": 2,
+    "question": "Vulcanization is used with __.",
+    "options": [
+      "polymers",
+      "plastics",
+      "metals",
+      "ceramics",
+      "cermets"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-019",
+    "chapter": 1,
+    "set": 2,
+    "question": "Tube drawing is used with __.",
+    "options": [
+      "ceramics",
+      "cermets",
+      "metals",
+      "semiconductors",
+      "organics"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-020",
+    "chapter": 1,
+    "set": 2,
+    "question": "Calendaring is used with __.",
+    "options": [
+      "metals",
+      "ceramics",
+      "ceramoids",
+      "polymers",
+      "semiconductors"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-021",
+    "chapter": 1,
+    "set": 2,
+    "question": "Metals melt at __ temperatures __ degrees C.",
+    "options": [
+      "low; less than 200",
+      "medium; 600-1600",
+      "high; greater than 2000",
+      "low; less than 0",
+      "high; greater than 6000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-022",
+    "chapter": 1,
+    "set": 2,
+    "question": "Ceramics melt at __ temperatures.",
+    "options": [
+      "high",
+      "low",
+      "medium",
+      "all of the above",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-023",
+    "chapter": 1,
+    "set": 2,
+    "question": "Polymers melt at __ temperatures.",
+    "options": [
+      "high",
+      "medium",
+      "low",
+      "all of the above",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-024",
+    "chapter": 1,
+    "set": 2,
+    "question": "Wire drawing is a __ process that pulls a metal __ through a reducing __ with a __ force.",
+    "options": [
+      "deformation; rod; die; tensile",
+      "deformation; ingot; die; tensile",
+      "re-formation; rod; mold; compressive",
+      "deformation; rod; die; compressive",
+      "deformation; ingot; mold; tensile"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-025",
+    "chapter": 1,
+    "set": 2,
+    "question": "Sintering __ a ceramic __ at __ temperatures to eliminate __ and consolidate the __ using surface and internal __ processes.",
+    "options": [
+      "expands; ingot; low; dislocations; ingot; diffusion",
+      "compresses; powder; low; dislocations; powder; diffusion",
+      "expands; ingot; low; pores; ingot; melting",
+      "expands; powder; high; dislocations; ingot; melting",
+      "compresses; powder; high; pores; powder; diffusion"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-026",
+    "chapter": 1,
+    "set": 2,
+    "question": "Vulcanization uses __ and __ in a __ to convert a sticky raw rubber material into a __ rubbery and __ tire.",
+    "options": [
+      "rubber; heat; mold; strong; tough",
+      "carbon; cold; die; ductile; brittle",
+      "sulfur; heat; mold; strong; tough",
+      "iron; heat; mold; ductile; brittle",
+      "sodium; cold; die; strong; tough"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-027",
+    "chapter": 1,
+    "set": 2,
+    "question": "Vulcanization is typically done at __ degrees C.",
+    "options": [
+      "0",
+      "180",
+      "18",
+      "1800",
+      "18000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-028",
+    "chapter": 1,
+    "set": 2,
+    "question": "Tube drawing is a __ process that pulls a metal __ through a reducing __ with a __ force.",
+    "options": [
+      "deformation; rod; die; tensile",
+      "melting; ingot; mold; compressive",
+      "solidification; rod; die; tensile",
+      "melting; ingot; mold; compressive",
+      "solidification; rod; mold; tensile"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-029",
+    "chapter": 1,
+    "set": 2,
+    "question": "Wire drawing also __ the metal.",
+    "options": [
+      "embrittles",
+      "fatigues",
+      "creeps",
+      "strengthens",
+      "softens"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch1-s2-030",
+    "chapter": 1,
+    "set": 2,
+    "question": "Tube drawing also __ the metal.",
+    "options": [
+      "strengthens",
+      "embrittles",
+      "fatigues",
+      "creeps",
+      "softens"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
