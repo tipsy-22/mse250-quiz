@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ch3-s1-001",
+    "chapter": 3,
+    "set": 1,
+    "question": "Atomic-bonding related properties include __, __, and __.",
+    "options": [
+      "melting point; elastic modulus; coefficient of thermal expansion",
+      "melting point; plastic modulus; coefficient of electrical expansion",
+      "freezing point; elastic modulus; coefficient of electrical expansion",
+      "melting point; plastic modulus; coefficient of thermal expansion",
+      "freezing point; plastic modulus; coefficient of thermal expansion"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-002",
+    "chapter": 3,
+    "set": 1,
+    "question": "The bond-strength of metals, ceramics and polymers is related to the __, __, and __.",
+    "options": [
+      "freezing point; plastic modulus; coefficient of thermal expansion",
+      "melting point; plastic modulus; coefficient of electrical expansion",
+      "freezing point; elastic modulus; coefficient of electrical expansion",
+      "melting point; plastic modulus; coefficient of thermal expansion",
+      "melting point; elastic modulus; coefficient of thermal expansion"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-003",
+    "chapter": 3,
+    "set": 1,
+    "question": "The melting point of a material correlates with its atomic-bonding __ and __.",
+    "options": [
+      "force well; potential curve",
+      "potential well; force curve",
+      "kinetic well; force curve",
+      "force well; kinetic curve",
+      "thermal well; thermal curve"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-004",
+    "chapter": 3,
+    "set": 1,
+    "question": "The Young's Modulus of a material correlates with its atomic-bonding __ and __.",
+    "options": [
+      "force well; potential curve",
+      "kinetic well; force curve",
+      "force well; kinetic curve",
+      "potential well; force curve",
+      "thermal well; thermal curve"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-005",
+    "chapter": 3,
+    "set": 1,
+    "question": "The coefficient of thermal expansion of a material correlates with its atomic-bonding __ and __.",
+    "options": [
+      "force well; potential curve",
+      "kinetic well; force curve",
+      "force well; kinetic curve",
+      "thermal well; thermal curve",
+      "potential well; force curve"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-006",
+    "chapter": 3,
+    "set": 1,
+    "question": "Different bond-types found in metals, ceramics and polymers affect the processing __ and __ that can be used for the material.",
+    "options": [
+      "temperatures; methods",
+      "pressures; volumes",
+      "temperatures; volumes",
+      "densities; masses",
+      "methods; densities"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-007",
+    "chapter": 3,
+    "set": 1,
+    "question": "Different bond-strengths found in metals, ceramics and polymers affect the processing __ and __ that can be used for the material.",
+    "options": [
+      "pressures; volumes",
+      "temperatures; volumes",
+      "temperatures; methods",
+      "densities; masses",
+      "methods; densities"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-008",
+    "chapter": 3,
+    "set": 1,
+    "question": "The process of selecting a material for a given application depends in part on the type of __ in the material.",
+    "options": [
+      "electrons",
+      "bonding",
+      "protons",
+      "neutrons",
+      "all of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-009",
+    "chapter": 3,
+    "set": 1,
+    "question": "The process of selecting a material for a given application depends in part on the __ and applicable __ of the material.",
+    "options": [
+      "properties; types",
+      "types; properties",
+      "properties; processing",
+      "processing; types",
+      "processing; electrons"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-010",
+    "chapter": 3,
+    "set": 1,
+    "question": "Hooke's law relates the __ of a material to the __ that is applied on the material.",
+    "options": [
+      "force; extension",
+      "extension; force",
+      "extension; compression",
+      "compression; extension",
+      "density; mass"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-011",
+    "chapter": 3,
+    "set": 1,
+    "question": "Hooke's law states that F = __, where k is the spring constant and x is the deflection of the material.",
+    "options": [
+      "k+x",
+      "k-x",
+      "k*x",
+      "k/x",
+      "k^x"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-012",
+    "chapter": 3,
+    "set": 1,
+    "question": "The units of the spring constant (in Hooke's law) are __.",
+    "options": [
+      "N.cm",
+      "N+cm",
+      "N-cm",
+      "N/cm",
+      "N^cm"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-013",
+    "chapter": 3,
+    "set": 1,
+    "question": "The spring constant of a material is given by k = __, where F is the force applied to the material, and x is the deflection or extension of the material.",
+    "options": [
+      "F*x",
+      "F+x",
+      "F/x",
+      "F-x",
+      "F^x"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-014",
+    "chapter": 3,
+    "set": 1,
+    "question": "Stress is the force per unit __.",
+    "options": [
+      "area",
+      "length",
+      "volume",
+      "mass",
+      "density"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-015",
+    "chapter": 3,
+    "set": 1,
+    "question": "Stress can also be called normalized __.",
+    "options": [
+      "strength",
+      "mass",
+      "force",
+      "volume",
+      "elongation"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-016",
+    "chapter": 3,
+    "set": 1,
+    "question": "Strain can also be called normalized __.",
+    "options": [
+      "force",
+      "strength",
+      "stiffness",
+      "elongation",
+      "density"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-017",
+    "chapter": 3,
+    "set": 1,
+    "question": "Strain can be calculated as strain = __, where DL is the elongation (delta L) and Lo is the initial length of the object.",
+    "options": [
+      "DL^Lo",
+      "DL-Lo",
+      "DL+Lo",
+      "DL*Lo",
+      "DL/Lo"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-018",
+    "chapter": 3,
+    "set": 1,
+    "question": "The units of stress are __ or __.",
+    "options": [
+      "psi; Pa",
+      "kg; grams",
+      "km; meters",
+      "Newtons; kN",
+      "N/m; kN/m"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-019",
+    "chapter": 3,
+    "set": 1,
+    "question": "The units of strain are __.",
+    "options": [
+      "cm",
+      "km",
+      "unitless",
+      "kg",
+      "Newtons"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-020",
+    "chapter": 3,
+    "set": 1,
+    "question": "Stress = __, where E is the Young's modulus of the material, and e is the strain.",
+    "options": [
+      "E/e",
+      "E*e",
+      "E+e",
+      "E-e",
+      "E^e"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-021",
+    "chapter": 3,
+    "set": 1,
+    "question": "The Modulus of __ is also called the Young's Modulus.",
+    "options": [
+      "plasticity",
+      "stiffness",
+      "creep",
+      "fatigue",
+      "elasticity"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-022",
+    "chapter": 3,
+    "set": 1,
+    "question": "The stress-strain curve of a material plots the __ on the y-axis and the __ on the x-axis.",
+    "options": [
+      "strain; stress",
+      "stress; strain",
+      "force; elongation",
+      "elongation; force",
+      "stress; force"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-023",
+    "chapter": 3,
+    "set": 1,
+    "question": "The stress-strain curve of a material shows the response of the material to an applied __.",
+    "options": [
+      "force",
+      "stress",
+      "strain",
+      "mass",
+      "density"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-024",
+    "chapter": 3,
+    "set": 1,
+    "question": "The slope of the stress-strain curve is a measure of the __ of the material.",
+    "options": [
+      "toughness",
+      "plasticity",
+      "stiffness",
+      "creep",
+      "fatigue"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-025",
+    "chapter": 3,
+    "set": 1,
+    "question": "The higher the slope of the stress-strain curve, the __ the __ of the material.",
+    "options": [
+      "lower; plasticity",
+      "lower; stiffness",
+      "higher; plasticity",
+      "higher; stiffness",
+      "higher; fatigue"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-026",
+    "chapter": 3,
+    "set": 1,
+    "question": "The coefficient of thermal expansion (alpha) is the change in __ per unit __, for a given change in __.",
+    "options": [
+      "length; length; temperature",
+      "area; area; temperature",
+      "mass; mass; temperature",
+      "density; mass; length",
+      "mass; density; length"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-027",
+    "chapter": 3,
+    "set": 1,
+    "question": "The units for the coefficient of thermal expansion are typically __.",
+    "options": [
+      "cm/m",
+      "ppm/degree C.",
+      "cm/degree C",
+      "degree C/ppm",
+      "degree C/cm"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-028",
+    "chapter": 3,
+    "set": 1,
+    "question": "The coefficient of thermal expansion of Silicon is __ ppm/degree C.",
+    "options": [
+      "0.0032",
+      "3.2",
+      "32",
+      "320",
+      "3200"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-029",
+    "chapter": 3,
+    "set": 1,
+    "question": "The coefficient of thermal expansion of copper is __ ppm/degree C.",
+    "options": [
+      "0.00167",
+      "1.67",
+      "16.7",
+      "167",
+      "1670"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch3-s1-030",
+    "chapter": 3,
+    "set": 1,
+    "question": "The coefficient of thermal expansion of E-glass is __ ppm/degree C.",
+    "options": [
+      "0.0054",
+      "54",
+      "540",
+      "5.4",
+      "5400"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
