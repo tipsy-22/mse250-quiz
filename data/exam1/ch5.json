@@ -526,6 +526,547 @@
     "correctStreak": 0,
     "lastSeen": null,
     "dueAt": null
+  },
+  {
+    "id": "ch5-s2-001",
+    "chapter": 5,
+    "set": 2,
+    "question": "An amorphous material is __ and has a __ structure.",
+    "options": [
+      "ordered; crystalline",
+      "semiordered; semicrystalline",
+      "disordered; crystalline",
+      "disordered; noncrystalline",
+      "disordered; semicrystalline"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-002",
+    "chapter": 5,
+    "set": 2,
+    "question": "An anisotropic property is one that has different values in different __.",
+    "options": [
+      "isotropies",
+      "anisotropies",
+      "crystallographic directions",
+      "crystallographic isotropies",
+      "crystallographic anisotropies"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-003",
+    "chapter": 5,
+    "set": 2,
+    "question": "An example of an amorphous material is __.",
+    "options": [
+      "semicrystalline SiO2",
+      "noncrystalline SiO2",
+      "crystalline SiO2",
+      "iron",
+      "gold"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-004",
+    "chapter": 5,
+    "set": 2,
+    "question": "Aluminum has __ modulus of elasticity in different directions.",
+    "options": [
+      "different values of the",
+      "the same values of the",
+      "zero",
+      "infinite",
+      "increasing"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-005",
+    "chapter": 5,
+    "set": 2,
+    "question": "The atomic-packing factor is the __ of the unit cell volume that is __.",
+    "options": [
+      "fraction; not occupied by atoms",
+      "fraction; occupied by atoms",
+      "volume; not occupied by atoms",
+      "volume; occupied by atoms",
+      "fraction; occupied by atomic factors"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-006",
+    "chapter": 5,
+    "set": 2,
+    "question": "APF = __",
+    "options": [
+      "Vatoms + V unit cell",
+      "Vatoms - V unit cell",
+      "Vatoms/ V unit cell",
+      "Vatoms * V unit cell",
+      "Vatoms ^ V unit cell"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-007",
+    "chapter": 5,
+    "set": 2,
+    "question": "A body-centered cubic unit cell has atoms on each corner of the unit cell and __.",
+    "options": [
+      "none in the body center",
+      "two in the face center",
+      "one in the face center",
+      "one in the body center",
+      "two in the body center"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-008",
+    "chapter": 5,
+    "set": 2,
+    "question": "Bragg’s law is the fundamental law of __.",
+    "options": [
+      "Bragg crystallography",
+      "Bragg crystals",
+      "Bragg structure",
+      "Bragg engineering",
+      "X-ray crystallography"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-009",
+    "chapter": 5,
+    "set": 2,
+    "question": "Bragg’s law states that n*L = __, where n is an integer, L is the wavelength of X-rays incident on a crystal, d is the distance between lattice planes, and theta is the Bragg angle.",
+    "options": [
+      "2*d/sin(theta)",
+      "2*d*sin(theta)",
+      "2*d + sin(theta)",
+      "2/d*sin(theta)",
+      "2 + d*sin(theta)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-010",
+    "chapter": 5,
+    "set": 2,
+    "question": "The close-packed direction is that direction where the atoms __ in the unit cell.",
+    "options": [
+      "touch",
+      "do not touch",
+      "close",
+      "spread",
+      "are"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-011",
+    "chapter": 5,
+    "set": 2,
+    "question": "The close-packed direction for the FCC unit-cell is __.",
+    "options": [
+      "<110>",
+      "[110]",
+      "[100]",
+      "<100>",
+      "(111)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-012",
+    "chapter": 5,
+    "set": 2,
+    "question": "The close-packed direction for the BCC unit-cell is __.",
+    "options": [
+      "<110>",
+      "[111]",
+      "[100]",
+      "<100>",
+      "(111)"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-013",
+    "chapter": 5,
+    "set": 2,
+    "question": "The close-packed plane is the plane where the __ have the __ packing in the plane.",
+    "options": [
+      "electrons; maximum",
+      "electrons; minimum",
+      "atoms; maximum",
+      "atoms; minimum",
+      "protons; planar"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-014",
+    "chapter": 5,
+    "set": 2,
+    "question": "The close-packed plane for the FCC unit cell is the __ plane.",
+    "options": [
+      "<110>",
+      "[111]",
+      "[100]",
+      "<100>",
+      "(111)"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-015",
+    "chapter": 5,
+    "set": 2,
+    "question": "The coordination number is the number of __ or ____ neighbors for an atom or ion in the unit cell.",
+    "options": [
+      "electronic; ionic; farthest",
+      "atomic; ionic; farthest",
+      "electronic; ionic; nearest",
+      "atomic; electronic; nearest",
+      "atomic; ionic; nearest"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-016",
+    "chapter": 5,
+    "set": 2,
+    "question": "The coordination number for a FCC metal is __.",
+    "options": [
+      "2",
+      "4",
+      "12",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-017",
+    "chapter": 5,
+    "set": 2,
+    "question": "A crystal is a solid with atoms or molecules packed in a __, __ that extends in __.",
+    "options": [
+      "regularly ordered; repeating pattern; 3-dimensions",
+      "disordered; repeating pattern; 3-dimensions",
+      "regularly ordered; repeating pattern; 2-dimensions",
+      "disordered; non-repeating pattern; 2-dimensions",
+      "partly ordered; repeating pattern; 1-dimension"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-018",
+    "chapter": 5,
+    "set": 2,
+    "question": "A crystal lattice is a __ 3D array of __ in space.",
+    "options": [
+      "non-periodic; lattice points",
+      "periodic; atomic points",
+      "non-periodic; atomic points",
+      "periodic; atoms",
+      "periodic; lattice points"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-019",
+    "chapter": 5,
+    "set": 2,
+    "question": "A crystal structure is a __ with atoms arranged in a particular manner, __ in __ on a lattice.",
+    "options": [
+      "structure; placed; circles",
+      "unit-cell; repeated; 3-dimensions",
+      "structure; placed; squares",
+      "structure; placed; rectangles",
+      "unit-cell; repeated; 2-dimensions"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-020",
+    "chapter": 5,
+    "set": 2,
+    "question": "A crystal system is a system in which __ are classified based on __.",
+    "options": [
+      "atomic structures; atomic geometry",
+      "crystal structures; atomic geometry",
+      "atomic structures; crystal geometry",
+      "crystal structures; unit-cell geometry",
+      "atomic structures; crystal geometry"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-021",
+    "chapter": 5,
+    "set": 2,
+    "question": "Unit-cell geometry is based on __ and __.",
+    "options": [
+      "atoms; molecules",
+      "edge-lengths; interaxial angles",
+      "edge-lengths; atomic angles",
+      "atomic-lengths; atomic masses",
+      "pressure; volume"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-022",
+    "chapter": 5,
+    "set": 2,
+    "question": "There are __ different crystal systems.",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "14",
+      "21"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-023",
+    "chapter": 5,
+    "set": 2,
+    "question": "A crystalline material has __ __ array of __, __ or __.",
+    "options": [
+      "a repeating; 2-D; electrons; protons; neutrons",
+      "a disordered; 1-D; electrons; protons; neutrons",
+      "a disordered; 3-D; electrons; protons; neutrons",
+      "a repeating; 3-D; atoms; ions; molecules",
+      "a repeating; 2-D; atoms; ions; molecules"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-024",
+    "chapter": 5,
+    "set": 2,
+    "question": "X-ray Diffraction is caused by __ interference of __ that are scattered by __ of a crystal.",
+    "options": [
+      "constructive; X-rays; atoms",
+      "destructive; X-rays; protons",
+      "constructive; diffractions; atoms",
+      "destructive; diffractions; photons",
+      "constructive; X-rays; photons"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-025",
+    "chapter": 5,
+    "set": 2,
+    "question": "A grain is a __ in a __ metal or ceramic.",
+    "options": [
+      "polycrystal; crystalline",
+      "region; amorphous",
+      "region; non-crystalline",
+      "single crystal; polycrystalline",
+      "single-crystal; single-crystalline"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-026",
+    "chapter": 5,
+    "set": 2,
+    "question": "The interface between two adjoining grains is called a __.",
+    "options": [
+      "grain face",
+      "grain interface",
+      "amorphous zone",
+      "amorphous boundary",
+      "grain-boundary"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-027",
+    "chapter": 5,
+    "set": 2,
+    "question": "Some __ have the FCC crystal structure.",
+    "options": [
+      "metals",
+      "liquids",
+      "gases",
+      "polymers",
+      "plastics"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-028",
+    "chapter": 5,
+    "set": 2,
+    "question": "An isotropic material has the same __ of any given __ in all crystallographic __ within the material.",
+    "options": [
+      "number; direction; unit-cells",
+      "value; property; unit-cells",
+      "number; direction; directions",
+      "value; direction; unit-cells",
+      "value; property; directions"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-029",
+    "chapter": 5,
+    "set": 2,
+    "question": "A lattice is a __ __ arrangement of __ in space.",
+    "options": [
+      "non-repeating; crystal; atoms",
+      "non-repeating; geometrical; points",
+      "regular; geometrical; atoms",
+      "regular; geometrical; points",
+      "regular; geometrical; crystals"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch5-s2-030",
+    "chapter": 5,
+    "set": 2,
+    "question": "Lattice parameters include __ lattice constants and __ angles between the sides of the lattice.",
+    "options": [
+      "2; 2",
+      "3; 3",
+      "7; 7",
+      "4; 4",
+      "14; 14"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
   }
+]
 ]
   
