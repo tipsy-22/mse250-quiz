@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "ch7-s1-001",
+    "chapter": 7,
+    "set": 1,
+    "question": "Crystal defects __ to material properties.",
+    "options": [
+      "are only detrimental",
+      "are beneficial or detrimental",
+      "are only beneficial",
+      "have no correlation",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-002",
+    "chapter": 7,
+    "set": 1,
+    "question": "Crystal defects can __ to modify and control a material's __.",
+    "options": [
+      "not be used; properties",
+      "not be used; performance",
+      "be intentionally engineered; performance",
+      "be engineered; directions",
+      "be engineered; planes"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-003",
+    "chapter": 7,
+    "set": 1,
+    "question": "Crystal defects can be classified as __, __, __, or __ defects.",
+    "options": [
+      "0-D; 1-D; 2-D; 3-D",
+      "1; 2; 3; 4 dimensional",
+      "A; B; C; D type",
+      "alpha; beta; gamma; delta type",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-004",
+    "chapter": 7,
+    "set": 1,
+    "question": "Crystal defects can be classified as __, __, __, or __ defects.",
+    "options": [
+      "pressure; volume; space; time",
+      "point; linear; planar; volume",
+      "A; B; C; D type",
+      "alpha; beta; gamma; delta type",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-005",
+    "chapter": 7,
+    "set": 1,
+    "question": "A point defect is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-006",
+    "chapter": 7,
+    "set": 1,
+    "question": "A linear defect is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-007",
+    "chapter": 7,
+    "set": 1,
+    "question": "A planar defect is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-008",
+    "chapter": 7,
+    "set": 1,
+    "question": "A volume defect is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-009",
+    "chapter": 7,
+    "set": 1,
+    "question": "A substitutional foreign atom is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-010",
+    "chapter": 7,
+    "set": 1,
+    "question": "An interstitial foreign atom is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-011",
+    "chapter": 7,
+    "set": 1,
+    "question": "An edge dislocation is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-012",
+    "chapter": 7,
+    "set": 1,
+    "question": "A screw dislocation is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-013",
+    "chapter": 7,
+    "set": 1,
+    "question": "A foreign grain of material in an otherwise uniform polycrystalline material is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-014",
+    "chapter": 7,
+    "set": 1,
+    "question": "A grain-boundary is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-015",
+    "chapter": 7,
+    "set": 1,
+    "question": "Metals can be __ by intentionally incorporating certain kinds of defects.",
+    "options": [
+      "strengthened",
+      "contoured",
+      "shaped",
+      "formed",
+      "pressed"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-016",
+    "chapter": 7,
+    "set": 1,
+    "question": "A semiconductor material's conductivity can be __ by intentionally incorporating certain kinds of defects.",
+    "options": [
+      "only raised",
+      "only lowered",
+      "raised or lowered",
+      "fatigued",
+      "creeped"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-017",
+    "chapter": 7,
+    "set": 1,
+    "question": "A motorcycle headlight bulb is on the order of __ meters in size.",
+    "options": [
+      "1",
+      "1E-2",
+      "1E2",
+      "1E4",
+      "1E6"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-018",
+    "chapter": 7,
+    "set": 1,
+    "question": "The grain-size and orientation of a motorcycle headlight's tungsten filament is on the order of __ meters in size.",
+    "options": [
+      "1",
+      "1E2",
+      "1E4",
+      "1E5",
+      "1E-5"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-019",
+    "chapter": 7,
+    "set": 1,
+    "question": "Crystal-defects and diffusion in a motorcycle headlight's tungsten filament are on the order of __ meters in size.",
+    "options": [
+      "1",
+      "1E2",
+      "1E4",
+      "1E5",
+      "1E-8"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-020",
+    "chapter": 7,
+    "set": 1,
+    "question": "The crystal structure and unit cell of a motorcycle headlight's tungsten filament are on the order of __ meters in size.",
+    "options": [
+      "1E-10",
+      "1E-6",
+      "1E-1",
+      "1E1",
+      "1E10"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-021",
+    "chapter": 7,
+    "set": 1,
+    "question": "The atomic bonds of a motorcycle headlight's tungsten filament are on the order of __ meters in size.",
+    "options": [
+      "1E1",
+      "1E-10",
+      "1E-1",
+      "1E5",
+      "1E10"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-022",
+    "chapter": 7,
+    "set": 1,
+    "question": "The atomic structure (of individual atoms) of a motorcycle headlight's tungsten filament are on the order of __ meters in size.",
+    "options": [
+      "1E1",
+      "1E-10",
+      "1E-1",
+      "1E5",
+      "1E10"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-023",
+    "chapter": 7,
+    "set": 1,
+    "question": "One centimeter is __ meters.",
+    "options": [
+      "1E1",
+      "1E-2",
+      "1E-1",
+      "1E5",
+      "1E10"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-024",
+    "chapter": 7,
+    "set": 1,
+    "question": "One micron is __ meters.",
+    "options": [
+      "1E1",
+      "1E-6",
+      "1E-1",
+      "1E5",
+      "1E10"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-025",
+    "chapter": 7,
+    "set": 1,
+    "question": "One Angstrom is __ meters.",
+    "options": [
+      "1E1",
+      "1E-6",
+      "1E-1",
+      "1E5",
+      "1E-10"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-026",
+    "chapter": 7,
+    "set": 1,
+    "question": "Examples of 0-D point defects include __, __ and __.",
+    "options": [
+      "vacancies; interstitial atoms; substitutional atoms",
+      "vacancies; interstitial atoms; substitutional dislocations",
+      "vacancies; interstitial dislocations; substitutional atoms",
+      "vacancies; interstitial grain-boundaries; substitutional atoms",
+      "vacancies; interstitial atoms; substitutional stacking faults"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-027",
+    "chapter": 7,
+    "set": 1,
+    "question": "Examples of 1-D linear defects include __.",
+    "options": [
+      "vacancies",
+      "dislocations",
+      "interstitial atoms",
+      "substitutional atoms",
+      "grain boundaries"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-028",
+    "chapter": 7,
+    "set": 1,
+    "question": "Examples of 2-D planar defects include __.",
+    "options": [
+      "vacancies",
+      "dislocations",
+      "interstitial atoms",
+      "substitutional atoms",
+      "grain boundaries"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-029",
+    "chapter": 7,
+    "set": 1,
+    "question": "A vacancy is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s1-030",
+    "chapter": 7,
+    "set": 1,
+    "question": "A vacancy is a __ defect.",
+    "options": [
+      "line",
+      "point",
+      "surface",
+      "planar",
+      "cubic"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-001",
+    "chapter": 7,
+    "set": 2,
+    "question": "An interstitial is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-002",
+    "chapter": 7,
+    "set": 2,
+    "question": "An interstitial is a __ defect.",
+    "options": [
+      "line",
+      "point",
+      "surface",
+      "planar",
+      "cubic"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-003",
+    "chapter": 7,
+    "set": 2,
+    "question": "A substitutional atom is a __ dimensional defect.",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "0",
+      "1"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-004",
+    "chapter": 7,
+    "set": 2,
+    "question": "A substitutional atom is a __ defect.",
+    "options": [
+      "line",
+      "point",
+      "surface",
+      "planar",
+      "cubic"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-005",
+    "chapter": 7,
+    "set": 2,
+    "question": "A dislocation is a __ dimensional defect.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-006",
+    "chapter": 7,
+    "set": 2,
+    "question": "A dislocation is a __ defect.",
+    "options": [
+      "line",
+      "point",
+      "surface",
+      "planar",
+      "cubic"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-007",
+    "chapter": 7,
+    "set": 2,
+    "question": "A grain-boundary is a __ dimensional defect.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-008",
+    "chapter": 7,
+    "set": 2,
+    "question": "A grain-boundary is a __ defect.",
+    "options": [
+      "line",
+      "point",
+      "surface",
+      "planar",
+      "cubic"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-009",
+    "chapter": 7,
+    "set": 2,
+    "question": "An empty lattice site is a __ defect.",
+    "options": [
+      "interstitial atom",
+      "vacancy",
+      "substitutional atom",
+      "dislocation",
+      "precipitate"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-010",
+    "chapter": 7,
+    "set": 2,
+    "question": "A smaller impurity atom between lattice sites is __ defect.",
+    "options": [
+      "an interstitial",
+      "a substitutional",
+      "vacancy",
+      "dislocation",
+      "precipitate"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-011",
+    "chapter": 7,
+    "set": 2,
+    "question": "A smaller impurity atom on a lattice site is __ defect.",
+    "options": [
+      "an interstitial",
+      "a substitutional",
+      "vacancy",
+      "dislocation",
+      "precipitate"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-012",
+    "chapter": 7,
+    "set": 2,
+    "question": "A larger impurity atom on a lattice site is __ defect.",
+    "options": [
+      "an interstitial",
+      "a substitutional",
+      "vacancy",
+      "dislocation",
+      "precipitate"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-013",
+    "chapter": 7,
+    "set": 2,
+    "question": "An extra-half plane of atoms in a crystal results in a defect called __.",
+    "options": [
+      "a screw dislocation",
+      "an interstitial",
+      "an edge dislocation",
+      "a substitutional",
+      "a precipitate"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-014",
+    "chapter": 7,
+    "set": 2,
+    "question": "Sheared planes of atoms in a crystal, that create a spiral path around a linear core. This results in a defect called __.",
+    "options": [
+      "a screw dislocation",
+      "an edge dislocation",
+      "an interstitial",
+      "a substitutional",
+      "a void"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-015",
+    "chapter": 7,
+    "set": 2,
+    "question": "A __ vector is defined as a vector that closes of loop of equal atom steps around a dislocation.",
+    "options": [
+      "screw dislocation",
+      "edge dislocation",
+      "Burger's",
+      "Miller's",
+      "crystal"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-016",
+    "chapter": 7,
+    "set": 2,
+    "question": "In a poly-crystalline material, each grain is enclosed by __.",
+    "options": [
+      "screw dislocations",
+      "edge dislocations",
+      "grain planes",
+      "grain boundaries",
+      "crystal structures"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-017",
+    "chapter": 7,
+    "set": 2,
+    "question": "In most metals, each grain contains about __ dislocations.",
+    "options": [
+      "1E1",
+      "1E8",
+      "1E-8",
+      "1E-1",
+      "1E80"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-018",
+    "chapter": 7,
+    "set": 2,
+    "question": "In most metals, each grain contains about __ vacancies.",
+    "options": [
+      "17",
+      "170",
+      "1700",
+      "17000",
+      "1E17"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-019",
+    "chapter": 7,
+    "set": 2,
+    "question": "When a metal solidifies from a liquid, first __ form in the liquid as it cools.",
+    "options": [
+      "nuclei",
+      "voids",
+      "vacancies",
+      "liquid drops",
+      "interstitials"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-020",
+    "chapter": 7,
+    "set": 2,
+    "question": "When a metal liquid is cooled, solid crystals start growing in the liquid, originating at the locations of __.",
+    "options": [
+      "nuclei",
+      "voids",
+      "vacancies",
+      "liquid drops",
+      "interstitials"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-021",
+    "chapter": 7,
+    "set": 2,
+    "question": "As the metal liquid continues to cool, crystals form and grow in volume until they meet to form adjacent __ separated by __.",
+    "options": [
+      "voids; void boundaries",
+      "interstitials; interstitial boundaries",
+      "grains; grain-boundaries",
+      "substitutionals; substitutional boundaries",
+      "drops; drop boundaries"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-022",
+    "chapter": 7,
+    "set": 2,
+    "question": "A poly-crystalline metal typically contains about __ vacancies/cm^3 at room temperature.",
+    "options": [
+      "17",
+      "1E17",
+      "170",
+      "1700",
+      "17000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-023",
+    "chapter": 7,
+    "set": 2,
+    "question": "A poly-crystalline metal typically contains about __ dislocations/cm^3.",
+    "options": [
+      "8",
+      "80",
+      "1E8",
+      "800",
+      "1E80"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-024",
+    "chapter": 7,
+    "set": 2,
+    "question": "If a poly-crystalline metal is heavily deformed, the number of dislocations can increase to about __ dislocations/cm^3.",
+    "options": [
+      "1E13",
+      "1E130",
+      "13",
+      "130",
+      "1300"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-025",
+    "chapter": 7,
+    "set": 2,
+    "question": "A grain is a small crystal that is about __ to __ cm across.",
+    "options": [
+      "1; 10",
+      "0.01; 1",
+      "10; 100",
+      "1; 1000",
+      "1; 10000"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-026",
+    "chapter": 7,
+    "set": 2,
+    "question": "A __ is the interface between adjacent grains.",
+    "options": [
+      "grain boundary",
+      "vacancy",
+      "interstitial",
+      "dislocation",
+      "crystal structure"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-027",
+    "chapter": 7,
+    "set": 2,
+    "question": "In a poly-crystalline material, the orientation of each single crystal is __ that of the adjacent grains.",
+    "options": [
+      "always the same as",
+      "different from",
+      "sometimes the same as",
+      "none of the above",
+      "all of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-028",
+    "chapter": 7,
+    "set": 2,
+    "question": "Grain boundaries are __ dimensional interfaces between adjacent grains.",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-029",
+    "chapter": 7,
+    "sub": 2,
+    "set": 2,
+    "question": "Grain-boundaries are thin regions of material that are atomically __.",
+    "options": [
+      "perfect",
+      "ordered",
+      "crystalline",
+      "interstitial",
+      "disordered"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch7-s2-030",
+    "chapter": 7,
+    "set": 2,
+    "question": "Grain-boundaries can be __ angle or __ angle grain-boundaries.",
+    "options": [
+      "zero; high",
+      "zero; infinite",
+      "low; zero",
+      "high; low",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
