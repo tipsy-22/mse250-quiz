@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch6-s1-001",
+    "chapter": 6,
+    "set": 1,
+    "question": "Crystal plane orientations in a unit-cell can affect __ and __.",
+    "options": [
+      "amorphous nucleation; ceramic formation",
+      "amorphous growth; polymer formation",
+      "crystal nucleation; metal formation",
+      "crystal growth; metal deformation",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-002",
+    "chapter": 6,
+    "set": 1,
+    "question": "When indexing or drawing crystal orientations, round brackets or parentheses are used to indicate indices for __.",
+    "options": [
+      "families of planes",
+      "individual planes",
+      "individual directions",
+      "families of directions",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-003",
+    "chapter": 6,
+    "set": 1,
+    "question": "When indexing or drawing crystal orientations, curly brackets are used to indicate indices for __.",
+    "options": [
+      "families of planes",
+      "individual planes",
+      "individual directions",
+      "families of directions",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-004",
+    "chapter": 6,
+    "set": 1,
+    "question": "A crystallographic plane in a unit cell can be indexed using __ of the plane with the __ unit-cell __.",
+    "options": [
+      "intercepts; 3; axes",
+      "axes; free; directions",
+      "intercepts; 2; axes",
+      "axes; free; structure",
+      "faces; original; structure"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-005",
+    "chapter": 6,
+    "set": 1,
+    "question": "A crystallographic plane's __ can be used to draw the plane in the unit cell.",
+    "options": [
+      "HKL intercepts",
+      "HKL indices",
+      "HKL axes",
+      "uvw axes",
+      "xyz axes"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-006",
+    "chapter": 6,
+    "set": 1,
+    "question": "The planar packing factor of a crystallographic plane of a given crystal can affect the __ of that __.",
+    "options": [
+      "structure; crystal",
+      "properties; plane",
+      "structure; packing",
+      "properties; packing",
+      "factor; packing"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-007",
+    "chapter": 6,
+    "set": 1,
+    "question": "The atom planar-density of a crystallographic plane of a given crystal can affect the __ of that __.",
+    "options": [
+      "structure; crystal",
+      "properties; plane",
+      "structure; packing",
+      "properties; packing",
+      "factor; packing"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-008",
+    "chapter": 6,
+    "set": 1,
+    "question": "A slip system is where a metal crystal __ on specific __ and along specific __ that are related to the crystal structure of the metal.",
+    "options": [
+      "forms; crystals; stresses",
+      "deforms; planes; stresses",
+      "forms; planes; directions",
+      "deforms; planes; directions",
+      "forms; crystals; directions"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-009",
+    "chapter": 6,
+    "set": 1,
+    "question": "Metals deform on __ planes and in __ directions.",
+    "options": [
+      "close-packed; close-packed",
+      "loose-packed; loose-packed",
+      "close-packed; loose-packed",
+      "loose-packed; close-packed",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-010",
+    "chapter": 6,
+    "set": 1,
+    "question": "Solid-state lasers are typically grown by __ deposition of __ of atoms on a specific __.",
+    "options": [
+      "solid-phase; crystals; direction",
+      "solid-phase; directions; plane",
+      "liquid-phase; crystals; direction",
+      "vapor-phase; directions; plane",
+      "vapor-phase; layers; plane"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-011",
+    "chapter": 6,
+    "set": 1,
+    "question": "Gems like diamond grow on __ that reveal the __ of the gem.",
+    "options": [
+      "crystal directions; amorphous nature",
+      "crystal planes; amorphous nature",
+      "specific planes; crystal structure",
+      "specific directions; crystal structure",
+      "amorphous lattices; amorphous structure"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-012",
+    "chapter": 6,
+    "set": 1,
+    "question": "To determine the Miller indices of a plane in a unit cell, we specify an origin at a __ of the unit cell; record __ of the plane with the __; take the __ of the __; reduce these to the __ integer values; enclose these in __.",
+    "options": [
+      "center; intercepts; axes; reciprocals; intercepts; smallest; square brackets",
+      "corner; lengths; axes; reciprocals; intercepts; smallest; square brackets",
+      "corner; intercepts; planes; products; intercepts; smallest; parentheses",
+      "corner; intercepts; axes; reciprocals; intercepts; smallest; parentheses",
+      "corner; intercepts; planes; products; sides; largest; parentheses"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-013",
+    "chapter": 6,
+    "set": 1,
+    "question": "In the Miller indices for a plane, negative intercepts are represented by __ the indices.",
+    "options": [
+      "minus before",
+      "bars above",
+      "minus after",
+      "square brackets before",
+      "angled brackets before"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-014",
+    "chapter": 6,
+    "set": 1,
+    "question": "A direction with the same indices as a plane is __ the plane.",
+    "options": [
+      "parallel to",
+      "in",
+      "perpendicular to",
+      "on",
+      "around"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-015",
+    "chapter": 6,
+    "set": 1,
+    "question": "If we are given the Miller indices of a plane, we do the following to draw it. Draw a __; select an origin; invert the __ to obtain __ on the axes; mark the __ along the xyz axes; draw the __ connecting the __.",
+    "options": [
+      "crystal structure; indices; loci; focal points; direction; planar edges",
+      "unit cell; axes; intercepts; intercepts; plane; intercepts",
+      "crystal structure; indices; loci; focal points; plane; planar edges",
+      "crystal structure; axes; intercepts; intercepts; direction; planar edges",
+      "unit cell; indices; intercepts; intercepts; plane; intercepts"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-016",
+    "chapter": 6,
+    "set": 1,
+    "question": "Dendrites in FCC materials grow on __ planes.",
+    "options": [
+      "{100}",
+      "{111}",
+      "{110}",
+      "{123}",
+      "{210}"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-017",
+    "chapter": 6,
+    "set": 1,
+    "question": "NaCl fracture typically occurs on __ planes.",
+    "options": [
+      "{100}",
+      "{111}",
+      "{110}",
+      "{123}",
+      "{210}"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-018",
+    "chapter": 6,
+    "set": 1,
+    "question": "Polyethylene chain folding occurs on the __ plane.",
+    "options": [
+      "{100}",
+      "{111}",
+      "{110}",
+      "{123}",
+      "{210}"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-019",
+    "chapter": 6,
+    "set": 1,
+    "question": "When determining the number of atoms on a given plane, we __ atoms whose centers are in the plane, and we __ atoms whose centers are above or below the plane.",
+    "options": [
+      "include; do not include",
+      "do not include; do not include",
+      "include; include",
+      "do not include; include",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-020",
+    "chapter": 6,
+    "set": 1,
+    "question": "The individual planes in a given family of planes have __ packing densities.",
+    "options": [
+      "increasing",
+      "decreasing",
+      "the same",
+      "zero",
+      "infinite"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-021",
+    "chapter": 6,
+    "set": 1,
+    "question": "In Miller indices, square brackets [] are used to denote __.",
+    "options": [
+      "individual directions",
+      "families of directions",
+      "individual planes",
+      "families of planes",
+      "individual coordinate points"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-022",
+    "chapter": 6,
+    "set": 1,
+    "question": "In Miller indices, angled or carrot brackets <> are used to denote __.",
+    "options": [
+      "individual directions",
+      "families of directions",
+      "individual planes",
+      "families of planes",
+      "individual coordinate points"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-023",
+    "chapter": 6,
+    "set": 1,
+    "question": "In Miller indices, half-moon brackets or parentheses, () are used to denote __.",
+    "options": [
+      "individual directions",
+      "families of directions",
+      "individual planes",
+      "families of planes",
+      "individual coordinate points"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-024",
+    "chapter": 6,
+    "set": 1,
+    "question": "In Miller indices, curly brackets {} are used to denote __.",
+    "options": [
+      "individual directions",
+      "families of directions",
+      "individual planes",
+      "families of planes",
+      "individual coordinate points"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-025",
+    "chapter": 6,
+    "set": 1,
+    "question": "The Miller indices [1 0 0] indicate __.",
+    "options": [
+      "an individual direction",
+      "a family of directions",
+      "an individual plane",
+      "a family of planes",
+      "an individual coordinate point"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-026",
+    "chapter": 6,
+    "set": 1,
+    "question": "The Miller indices <1 0 0> indicate __.",
+    "options": [
+      "a family of planes = [100], [010], [001]",
+      "an individual direction = <100>",
+      "an individual plane = <100>",
+      "a family of directions = [100], [010], [001]",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-027",
+    "chapter": 6,
+    "set": 1,
+    "question": "The Miller indices (1 0 0) indicate __.",
+    "options": [
+      "an individual direction",
+      "a family of directions",
+      "an individual plane",
+      "a family of planes",
+      "an individual coordinate point"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-028",
+    "chapter": 6,
+    "set": 1,
+    "question": "The Miller indices {1 0 0} indicate __.",
+    "options": [
+      "a family of planes = (100), (010), (001)",
+      "an individual direction = <100>",
+      "an individual plane = <100>",
+      "a family of directions = [100], [010], [001]",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-029",
+    "chapter": 6,
+    "set": 1,
+    "question": "A slip system includes __ and __.",
+    "options": [
+      "slip planes; slip directions",
+      "crystals; axes",
+      "amorphous; crystalline materials",
+      "slips; systems",
+      "vacancies; dislocations"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s1-030",
+    "chapter": 6,
+    "set": 1,
+    "question": "A slip plane is the plane on which __.",
+    "options": [
+      "slippage does not occur",
+      "the easiest slippage occurs",
+      "the most difficult slippage occurs",
+      "slippage is on amorphous zones",
+      "slippage is retroactive"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-001",
+    "chapter": 6,
+    "set": 2,
+    "question": "Slip means __.",
+    "options": [
+      "formation of dislocations",
+      "deformation",
+      "formation of vacancies",
+      "deformation of dislocations",
+      "slipping of vacancies"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-002",
+    "chapter": 6,
+    "set": 2,
+    "question": "The slip plane is typically the plane with the __ of atoms.",
+    "options": [
+      "closest packing",
+      "loosest packing",
+      "intermediate packing",
+      "highest weights",
+      "lowest weights"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-003",
+    "chapter": 6,
+    "set": 2,
+    "question": "A slip direction is the direction of __ during deformation.",
+    "options": [
+      "resistance",
+      "movement of atoms.",
+      "perpendicular motion",
+      "perpendicular resistance",
+      "packing"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-004",
+    "chapter": 6,
+    "set": 2,
+    "question": "Slip directions are typically the directions with the __ of atoms.",
+    "options": [
+      "closest packing",
+      "loosest packing",
+      "intermediate packing",
+      "highest weights",
+      "lowest weights"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-005",
+    "chapter": 6,
+    "set": 2,
+    "question": "FCC stands for a __ crystal.",
+    "options": [
+      "Front-Centered Cubic",
+      "Front-Cubic Center",
+      "Face-Cubic Center",
+      "Face-Centered Crystal",
+      "Face-Centered Cubic"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-006",
+    "chapter": 6,
+    "set": 2,
+    "question": "In FCC crystals, the __ planes are the close-packed planes.",
+    "options": [
+      "{100}",
+      "{110}",
+      "{111}",
+      "{112}",
+      "{123}"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-007",
+    "chapter": 6,
+    "set": 2,
+    "question": "In FCC crystals, the __ directions are the close-packed directions .",
+    "options": [
+      "<100>",
+      "<200>",
+      "<111>",
+      "<110>",
+      "<123>"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-008",
+    "chapter": 6,
+    "set": 2,
+    "question": "The FCC slip systems are indicated by __.",
+    "options": [
+      "<100>{111}",
+      "<110>{111}",
+      "<111>{111}",
+      "<110>{100}",
+      "<110>{110}"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-009",
+    "chapter": 6,
+    "set": 2,
+    "question": "How many {111} planes are there in the FCC system?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "19"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-010",
+    "chapter": 6,
+    "set": 2,
+    "question": "How many <110> directions are there in the FCC system?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "5",
+      "8"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-011",
+    "chapter": 6,
+    "set": 2,
+    "question": "How many slip systems are there in the FCC system?",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-012",
+    "chapter": 6,
+    "set": 2,
+    "question": "Crystal growth and metal deformation can be affected by __ in a unit-cell.",
+    "options": [
+      "amorphous plane orientations",
+      "amorphous direction orientations",
+      "crystal direction orientations",
+      "crystal plane orientations",
+      "absence of atoms"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-013",
+    "chapter": 6,
+    "set": 2,
+    "question": "When indexing or drawing crystal orientations, __ are used to indicate indices for individual planes.",
+    "options": [
+      "square brackets",
+      "angled brackets",
+      "triangular brackets",
+      "round brackets or parentheses",
+      "carrot brackets"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-014",
+    "chapter": 6,
+    "set": 2,
+    "question": "When indexing or drawing crystal orientations, curly brackets are used to indicate indices for __.",
+    "options": [
+      "individual planes",
+      "individual directions",
+      "families of planes",
+      "families of directions",
+      "families of points"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-015",
+    "chapter": 6,
+    "set": 2,
+    "question": "A crystallographic __ in a unit cell can be indexed using intercepts of the __ with the 3 unit-cell axes.",
+    "options": [
+      "direction; direction",
+      "direction; plane",
+      "plane; plane",
+      "plane; direction",
+      "point; point"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-016",
+    "chapter": 6,
+    "set": 2,
+    "question": "A crystallographic __ HKL indices can be used to draw the __ in the unit cell.",
+    "options": [
+      "point's; point",
+      "plane's; plane",
+      "plane's; direction",
+      "direction's; plane",
+      "point's; direction"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-017",
+    "chapter": 6,
+    "set": 2,
+    "question": "The atomic __ of a crystallographic plane of a given crystal can affect the properties of that plane.",
+    "options": [
+      "weight",
+      "mass",
+      "planar-density",
+      "volume",
+      "planar pressure"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-018",
+    "chapter": 6,
+    "set": 2,
+    "question": "A __ is where a metal crystal deforms on specific __ and along specific __ that are related to the crystal structure of the metal.",
+    "options": [
+      "slip system; planes; directions",
+      "crystal lattice; planes; directions",
+      "crystal volume; slip lattices; directions",
+      "crystal system; slip lattices; planes",
+      "crystal direction; planes; slip systems"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-019",
+    "chapter": 6,
+    "set": 2,
+    "question": "Metals __ on __ planes and in __ directions.",
+    "options": [
+      "deform; close-packed; close-packed",
+      "form; close-packed; close-packed",
+      "deform; loosely-packed; close-packed",
+      "form; close-packed; loosely-packed",
+      "deform; loosely-packed; close-packed"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-020",
+    "chapter": 6,
+    "set": 2,
+    "question": "Solid-state __ are typically grown by vapor-phase deposition of __ of atoms on a specific __.",
+    "options": [
+      "liquids; directions; direction",
+      "crystals; directions; direction",
+      "crystals; planes; plane",
+      "lasers; directions; direction",
+      "lasers; layers; plane"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-021",
+    "chapter": 6,
+    "set": 2,
+    "question": "Gems like __ grow on specific planes that reveal the __ of the gem.",
+    "options": [
+      "SiO2; amorphous nature",
+      "iron; cubicity",
+      "diamonds; crystal structure",
+      "ceramics; amorphous directions",
+      "polymers; crystalline planes"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-022",
+    "chapter": 6,
+    "set": 2,
+    "question": "To determine the __ of a plane in a unit cell, we specify an origin at a corner of the unit cell; record __ of the plane with the axes take the __ of the intercepts; reduce these to the __ integer values; enclose these in __.",
+    "options": [
+      "Miller indices; axes; reciprocals; smallest; parentheses",
+      "Miller indices; points; reciprocals; smallest; square brackets",
+      "Miller indices; intercepts; axes; smallest; square brackets",
+      "Miller indices; intercepts; reciprocals; smallest; parentheses",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-023",
+    "chapter": 6,
+    "set": 2,
+    "question": "In the __ for a plane, negative intercepts are represented by bars above the __.",
+    "options": [
+      "crystal structure; structure",
+      "Miller indices; indices",
+      "crystal lattice; lattice",
+      "Miller indices; crystal",
+      "Miller indices; intercepts"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-024",
+    "chapter": 6,
+    "set": 2,
+    "question": "A direction with __ as a plane is __ to the plane.",
+    "options": [
+      "complementary indices; perpendicular",
+      "complementary indices; parallel",
+      "the same indices; perpendicular",
+      "the same indices; parallel",
+      "the same indices; at 60 degrees"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-025",
+    "chapter": 6,
+    "set": 2,
+    "question": "If we are given the of a plane, we do the following to draw it. Draw a unit cell; select an origin; invert the __ to obtain __ on the axes; mark the intercept along the __; draw the __ connecting the intercepts.",
+    "options": [
+      "Bragg indices; intercepts; indices; xyz axes; plane",
+      "Bragg indices; indices; intercepts; indices; direction",
+      "Bragg indices; intercepts; intercepts; xyz axes; direction",
+      "Miller indices; indices; indices; xyz indices; plane",
+      "Miller indices; indices; intercepts; xyz axes; plane"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-026",
+    "chapter": 6,
+    "set": 2,
+    "question": "When determining the number of atoms on a given plane, we include atoms whose __are in the __, and we do not include atoms whose __ are __ the __.",
+    "options": [
+      "centers; plane; centers; above or below; plane",
+      "edges; plane; centers; in; plane",
+      "centers; direction; edges; above or below; direction",
+      "edges; plane; centers; in; plane",
+      "corners; direction; corners; above or below; direction"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-027",
+    "chapter": 6,
+    "set": 2,
+    "question": "The Miller indices [1 1 1] indicate __.",
+    "options": [
+      "an individual coordinate point",
+      "a family of coordinate points",
+      "an individual plane",
+      "a family of directions",
+      "an individual direction"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-028",
+    "chapter": 6,
+    "set": 2,
+    "question": "The Miller indices <1 1 0> indicate __.",
+    "options": [
+      "an individual direction",
+      "a family of coordinate points = [110], [101], [011]",
+      "a family of planes = [110], [101], [011]",
+      "a family of directions = [110], [101], [011]",
+      "an individual plane"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-029",
+    "chapter": 6,
+    "set": 2,
+    "question": "The Miller indices (1 1 1) indicate __.",
+    "options": [
+      "an individual direction",
+      "a family of coordinate points = [110], [101], [011]",
+      "a family of planes = [110], [101], [011]",
+      "a family of directions = [110], [101], [011]",
+      "an individual plane"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch6-s2-030",
+    "chapter": 6,
+    "set": 2,
+    "question": "Aslip __ includes slip planes and __.",
+    "options": [
+      "system; slip directions",
+      "direction; directions",
+      "plane; directions",
+      "system; coordinate points",
+      "system; defects"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
