@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch8-s1-001",
+    "chapter": 8,
+    "set": 1,
+    "question": "It is important to use __ materials and mechanical __ in the __ process.",
+    "options": [
+      "standardized; properties; engineering design",
+      "polymer; polymers; semiconducting",
+      "electrical; properties; electrical industrial",
+      "magnetic; properties; magnetic industrial",
+      "new; new properties; superconductor design"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-002",
+    "chapter": 8,
+    "set": 1,
+    "question": "There are __ major properties of metals that we can measure from a stress-strain curve.",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "8",
+      "10"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-003",
+    "chapter": 8,
+    "set": 1,
+    "question": "The major properties of metals that can be measured from a stress-strain curve include __ modulus, 0.2% __ strength, __ strength, __ strength, __ ductility, __ ductility and __.",
+    "options": [
+      "Bragg; yield; tensile; fatigue; compressive; %reduction in strength; toughness",
+      "Bragg; elongation; creep; breaking; %elongation; %reduction in strength; toughness",
+      "Young's; yield; tensile; breaking; %elongation; %reduction in area; toughness",
+      "Bragg; yield; creep; fatigue; compressive; %reduction in area; corrosion",
+      "Young's; elongation; tensile; fatigue; %elongation; %reduction in area; corrosion"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-004",
+    "chapter": 8,
+    "set": 1,
+    "question": "Each of the major mechanical properties of metals can be linked to specific __ and __ mechanisms that act on the metal.",
+    "options": [
+      "fatigue; fatigue",
+      "creep; creep",
+      "elongation; atomic",
+      "atomic; macroscopic",
+      "atomic; fatigue"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-005",
+    "chapter": 8,
+    "set": 1,
+    "question": "The __ modulus, E, is a measure of (or impacts or affects) the elastic __ of a material when a __ is applied to it.",
+    "options": [
+      "plastic; creep; stress",
+      "plastic; fatigue; stress",
+      "plastic; tension; structure",
+      "elastic; force; power",
+      "elastic; deformation; stress"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-006",
+    "chapter": 8,
+    "set": 1,
+    "question": "The elastic deformation of a material is __, __ and __ and represents __ of atomic bonds.",
+    "options": [
+      "non-linear; viscoelastic; reversible; breaking",
+      "non-linear; plastic; reversible; breaking",
+      "exponential; elastic; irreversible; stretching",
+      "linear; elastic; reversible; stretching",
+      "linear; viscoelastic; irreversible; breaking"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-007",
+    "chapter": 8,
+    "set": 1,
+    "question": "Plastic deformation of a metal typically occurs by lattice __ by __ motion.",
+    "options": [
+      "strain; vacancy",
+      "creation; interstitial atomic",
+      "shear; dislocation",
+      "annihilation; substitutional atomic",
+      "shear; void"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-008",
+    "chapter": 8,
+    "set": 1,
+    "question": "The kind of dislocation motion that occurs during plastic deformation of a metal is also called dislocation __.",
+    "options": [
+      "slide",
+      "glide",
+      "creep",
+      "fatigue",
+      "climb"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-009",
+    "chapter": 8,
+    "set": 1,
+    "question": "In a metal that is subjected to a stress, plastic deformation occurs by __ in a specific __ on a specific __.",
+    "options": [
+      "dislocation motion; direction; plane",
+      "dislocation creation; atom; plane",
+      "vacancy motion; vacancy; index",
+      "vacancy creation; dislocation; direction",
+      "interstitial motion; direction; boundary"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-010",
+    "chapter": 8,
+    "set": 1,
+    "question": "Plastic deformation of a metal is associated with a 0.2% __ strength, a maximum __, and a __ strength.",
+    "options": [
+      "yield; tensile strength; breaking",
+      "fatigue; creep strength; toughness",
+      "elongation; creep strength; breaking",
+      "creep; tensile strength; toughness",
+      "yield; fatigue strength; toughness"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-011",
+    "chapter": 8,
+    "set": 1,
+    "question": "The amount of plastic deformation of a metal can be expressed as a ductility that is quantified by the __ and the __.",
+    "options": [
+      "% stress; % reduction of area",
+      "% elongation; % reduction of stress",
+      "% strain; % reduction of strain",
+      "% elongation; % reduction of area",
+      "% toughness; % reduction of toughness"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-012",
+    "chapter": 8,
+    "set": 1,
+    "question": "The toughness of a metal is quantified by the __ during the deformation of the metal.",
+    "options": [
+      "strain",
+      "stress",
+      "energy absorbed",
+      "deformation",
+      "creep"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-013",
+    "chapter": 8,
+    "set": 1,
+    "question": "The mechanical properties of metals, polymers and ceramics are __.",
+    "options": [
+      "the same",
+      "very similar",
+      "different from each other",
+      "all of the above",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-014",
+    "chapter": 8,
+    "set": 1,
+    "question": "During a tensile test, __ is used to measure the force that is applied on the sample.",
+    "options": [
+      "a load cell",
+      "an extensometer",
+      "a moving crosshead",
+      "a specimen",
+      "a tensile bar"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-015",
+    "chapter": 8,
+    "set": 1,
+    "question": "During a tensile test, __ is used to measure the elongation of the sample in response to the tensile stress that is applied to the sample.",
+    "options": [
+      "a load cell",
+      "an extensometer",
+      "a moving crosshead",
+      "a specimen",
+      "a tensile bar"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-016",
+    "chapter": 8,
+    "set": 1,
+    "question": "A chef's choice martensite knife is made of steel with 1% __, 4% __ and 14% __.",
+    "options": [
+      "carbon; molybdenum; chromium",
+      "iron; carbon; chromium",
+      "iron; chromium; nickel",
+      "molybdenum; chromium; carbon",
+      "steel; martensite; ferrite"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-017",
+    "chapter": 8,
+    "set": 1,
+    "question": "Zirconium knives have __x the wear-resistance of steel knives.",
+    "options": [
+      "1",
+      "2",
+      "10",
+      "100",
+      "1000"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-018",
+    "chapter": 8,
+    "set": 1,
+    "question": "A chef's choice martensite knife has a yield strength of __ MPA.",
+    "options": [
+      "120",
+      "1200",
+      "12",
+      "1.2",
+      "1E12"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-019",
+    "chapter": 8,
+    "set": 1,
+    "question": "UHMWPE material for shoulder-replacement ball joints has a relatively __ young's modulus of __ GPA compared Martensite Steel knives which have a Young's modulus of 210 GPA.",
+    "options": [
+      "high; 2100",
+      "low; 100",
+      "low; 10",
+      "low; 1",
+      "high; 1E100"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-020",
+    "chapter": 8,
+    "set": 1,
+    "question": "Polyethylene fiber body armor has a relatively __ tensile strength of __ MPA.",
+    "options": [
+      "low; 3.55",
+      "low; 355",
+      "high; 3550",
+      "high; 35500",
+      "high; 1E355"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-021",
+    "chapter": 8,
+    "set": 1,
+    "question": "Polyethylene fiber body armor has a relatively __ Young's Modulus of __ GPA.",
+    "options": [
+      "low; 2.64",
+      "low; 0.00264",
+      "low; 1E-264",
+      "high; 264",
+      "high; 1E264"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-022",
+    "chapter": 8,
+    "set": 1,
+    "question": "The upper suspension cables that hold up or suspend the Brooklyn bridge (from above) are in a stress-state of __.",
+    "options": [
+      "tension",
+      "compression",
+      "strain",
+      "elongation",
+      "dislocations"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-023",
+    "chapter": 8,
+    "set": 1,
+    "question": "The upper suspension cables that hold up or suspend the Brooklyn bridge (from above) are made of __.",
+    "options": [
+      "copper",
+      "1080 steel",
+      "tungsten",
+      "polymer",
+      "ceramic"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-024",
+    "chapter": 8,
+    "set": 1,
+    "question": "The support beams that support the Shropshire iron bridge (from beneath) in England are in a stress-state of __.",
+    "options": [
+      "tension",
+      "strain",
+      "compression",
+      "elongation",
+      "dislocations"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-025",
+    "chapter": 8,
+    "set": 1,
+    "question": "The support beams that support the Shropshire iron bridge (from beneath) in England are made of __.",
+    "options": [
+      "copper",
+      "cast iron",
+      "bronze",
+      "silicon",
+      "polymer"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-026",
+    "chapter": 8,
+    "set": 1,
+    "question": "The tensile stress on a cable is defined as the __ divided by the __ of the cable.",
+    "options": [
+      "stress; strain",
+      "tension force; cross-sectional area",
+      "tension stress; tension strain",
+      "tension force; length",
+      "area; length"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-027",
+    "chapter": 8,
+    "set": 1,
+    "question": "The compressive stress on a beam is defined as the __ divided by the __ of the beam.",
+    "options": [
+      "stress; strain",
+      "compressive stress; compressive strain",
+      "compressive force; cross-sectional area",
+      "compressive force; length",
+      "area; length"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-028",
+    "chapter": 8,
+    "set": 1,
+    "question": "The mechanical properties of a metal are measured by a __ testing machine.",
+    "options": [
+      "stress",
+      "strain",
+      "compression",
+      "tensile",
+      "creep"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-029",
+    "chapter": 8,
+    "set": 1,
+    "question": "The output of a tensile test of a given metal, is the __ versus __ curve.",
+    "options": [
+      "fatigue; sleep",
+      "force; elongation",
+      "creep; elongation",
+      "creep; fatigue",
+      "stress; elongation"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s1-030",
+    "chapter": 8,
+    "set": 1,
+    "question": "The tensile test can measure __ deformation and __ deformation.",
+    "options": [
+      "elastic; plastic",
+      "creep; fatigue",
+      "elastic; norstic",
+      "creep; plastic",
+      "fatigue; plastic"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-001",
+    "chapter": 8,
+    "set": 2,
+    "question": "The slope of the linear portion of the stress-strain curve gives us a measure of the __ of the material.",
+    "options": [
+      "strain",
+      "stiffness",
+      "stress",
+      "force",
+      "elongation"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-002",
+    "chapter": 8,
+    "set": 2,
+    "question": "The slope of the linear portion of the stress-strain curve gives us the __ of the material.",
+    "options": [
+      "strain",
+      "stress",
+      "Young's Modulus",
+      "force",
+      "elongation"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-003",
+    "chapter": 8,
+    "set": 2,
+    "question": "The extent of the plastic deformation of a material (when exposed to a tensile stress) gives us information about the __ and the __ of the material.",
+    "options": [
+      "stress; strain",
+      "Young's modulus; strength",
+      "strength; Young's modulus",
+      "ductility; strength",
+      "Bragg modulus; strain"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-004",
+    "chapter": 8,
+    "set": 2,
+    "question": "The ductility of a material can be measured by the amount of plastic __ for a given stress.",
+    "options": [
+      "strain",
+      "stress",
+      "creep",
+      "fatigue",
+      "stiffness"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-005",
+    "chapter": 8,
+    "set": 2,
+    "question": "The ductility of a material can be measured by the plastic __ for a given stress.",
+    "options": [
+      "stiffness",
+      "% elongation",
+      "Young's Modulus",
+      "stress",
+      "creep"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-006",
+    "chapter": 8,
+    "set": 2,
+    "question": "The % elongation of the material can be measured from the __.",
+    "options": [
+      "elongation; fatigue",
+      "force; density",
+      "stress-strain curve",
+      "pressure; volume",
+      "pressure; stress"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-007",
+    "chapter": 8,
+    "set": 2,
+    "question": "The ductility of a material can be measured by the amount of plastic strain at a given __ of the sample.",
+    "options": [
+      "stress",
+      "Young's modulus",
+      "% reduction in cross-sectional area",
+      "fatigue",
+      "cycles"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-008",
+    "chapter": 8,
+    "set": 2,
+    "question": "The strength of a material can be categorized by the stress at which __ begins.",
+    "options": [
+      "elastic deformation",
+      "plastic deformation",
+      "elastic stiffness",
+      "plastic stiffness",
+      "fatigue"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-009",
+    "chapter": 8,
+    "set": 2,
+    "question": "On a stress-strain curve, a __ offset is commonly used to determine the stress at which __ begins.",
+    "options": [
+      "0.2%; plastic deformation",
+      "100%; plastic deformation",
+      "0.2%; elastic deformation",
+      "100%; elastic deformation",
+      "0.2%; Young's modulus"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-010",
+    "chapter": 8,
+    "set": 2,
+    "question": "The strength of a material can be categorized by the __ that the material can sustain.",
+    "options": [
+      "maximum stress",
+      "minimum stress",
+      "stiffness",
+      "fatigue",
+      "creep"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-011",
+    "chapter": 8,
+    "set": 2,
+    "question": "The strength of a material can be categorized by the __ of the material.",
+    "options": [
+      "stress at plastic yield",
+      "stress at elastic yield",
+      "stress at fracture",
+      "stiffness",
+      "strain"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-012",
+    "chapter": 8,
+    "set": 2,
+    "question": "To convert a Force-Elongation plot (obtained via a tensile stress), to a stress-strain curve, we divide the force by the __ of the sample, and divide the elongation by the __ of the sample.",
+    "options": [
+      "length; area",
+      "cross-sectional area; initial length",
+      "mass; density",
+      "pressure; volume",
+      "cross-sectional area; final length"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-013",
+    "chapter": 8,
+    "set": 2,
+    "question": "During the later stages of a tensile test, necking results in __ of the sample.",
+    "options": [
+      "geometric instability",
+      "elastic deformation",
+      "elastic stiffness",
+      "geometric stability",
+      "uniformization"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-014",
+    "chapter": 8,
+    "set": 2,
+    "question": "Hooke's law states that the elongation x is related to the applied force by the following expression F = __, where k is the spring constant of the material.",
+    "options": [
+      "k/x",
+      "k+x",
+      "k*x",
+      "k-x",
+      "k^x"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-015",
+    "chapter": 8,
+    "set": 2,
+    "question": "The modulus of elasticity of a material is given by E = __.",
+    "options": [
+      "stress * strain",
+      "stress / strain",
+      "stress + strain",
+      "stress - strain",
+      "stress ^ strain"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-016",
+    "chapter": 8,
+    "set": 2,
+    "question": "During the initial stages of elastic deformation of a material, the relationship between stress and strain is a __ relationship.",
+    "options": [
+      "non-linear",
+      "parabolic",
+      "linear",
+      "exponential",
+      "super-linear"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-017",
+    "chapter": 8,
+    "set": 2,
+    "question": "Elastic means __ and __.",
+    "options": [
+      "linear; reversible",
+      "nonlinear; irreversible",
+      "linear; irreversible",
+      "exponential; reversible",
+      "exponential; irreversible"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-018",
+    "chapter": 8,
+    "set": 2,
+    "question": "When a small load is applied to a material, the atomic bonds __.",
+    "options": [
+      "break",
+      "stretch",
+      "are created",
+      "are destroyed",
+      "melt"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-019",
+    "chapter": 8,
+    "set": 2,
+    "question": "When a small load is applied to a material, and then removed, the atomic bonds __.",
+    "options": [
+      "break",
+      "stay stretched",
+      "return to their initial configurations",
+      "are re-created",
+      "are destroyed"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-020",
+    "chapter": 8,
+    "set": 2,
+    "question": "The Young's modulus of ceramics is __ that of metals.",
+    "options": [
+      "less than",
+      "greater than",
+      "equal to",
+      "infinite compared to",
+      "zero compared to"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-021",
+    "chapter": 8,
+    "set": 2,
+    "question": "The Young's modulus of ceramics is __ that of polymers.",
+    "options": [
+      "much smaller than",
+      "slightly smaller than",
+      "much greater than",
+      "equal to",
+      "zero compared to"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-022",
+    "chapter": 8,
+    "set": 2,
+    "question": "The Young's modulus of metals is __ that of polymers.",
+    "options": [
+      "much smaller than",
+      "slightly smaller than",
+      "much greater than",
+      "equal to",
+      "zero compared to"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-023",
+    "chapter": 8,
+    "set": 2,
+    "question": "Diamond is __ than glass.",
+    "options": [
+      "less stiff",
+      "stiffer",
+      "softer",
+      "less dense",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-024",
+    "chapter": 8,
+    "set": 2,
+    "question": "Diamond has a __ Young's modulus compared to glass.",
+    "options": [
+      "lower",
+      "the same",
+      "greater",
+      "much lower",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-025",
+    "chapter": 8,
+    "set": 2,
+    "question": "Aluminum has a __ Young's modulus compared to diamond.",
+    "options": [
+      "lower",
+      "higher",
+      "the same",
+      "much higher",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-026",
+    "chapter": 8,
+    "set": 2,
+    "question": "Polyethylene has a __ Young's modulus compared steel.",
+    "options": [
+      "lower",
+      "higher",
+      "the same",
+      "much higher",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-027",
+    "chapter": 8,
+    "set": 2,
+    "question": "The yield strength is the __ at which noticeable __ deformation has occurred.",
+    "options": [
+      "strain; plastic",
+      "strain; elastic",
+      "stress; plastic",
+      "stress; elastic",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-028",
+    "chapter": 8,
+    "set": 2,
+    "question": "At higher stresses, plastic deformation occurs when bonds stretch and planes __ by __ motion.",
+    "options": [
+      "climb; dislocation",
+      "shear; vacancy",
+      "climb; interstitial",
+      "shear; dislocation",
+      "shear; interstitial"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-029",
+    "chapter": 8,
+    "set": 2,
+    "question": "The Young's Modulus of Diamond is about __ GPA.",
+    "options": [
+      "1000",
+      "100",
+      "1",
+      "0.1",
+      "0.01"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch8-s2-030",
+    "chapter": 8,
+    "set": 2,
+    "question": "The Young's Modulus of Steel is about __ GPA.",
+    "options": [
+      "1000",
+      "100",
+      "1",
+      "0.1",
+      "0.01"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
