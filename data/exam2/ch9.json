@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch9-s1-001",
+    "chapter": 9,
+    "set": 1,
+    "question": "Materials can fail below their yield strength due to factors such as __, __, __, __, and __.",
+    "options": [
+      "flaws; precipitation hardening; environment; operating conditions; specimen history",
+      "flaws; design; cold-working; operating conditions; specimen history",
+      "flaws; design; environment; hot-working; specimen history",
+      "flaws; design; environment; operating conditions; specimen history",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-002",
+    "chapter": 9,
+    "set": 1,
+    "question": "Flaws can act as __ risers (or concentrators) that cause __ stress at a crack tip.",
+    "options": [
+      "strain; increased",
+      "stress; increased",
+      "stress; decreased",
+      "strain; decreased",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-003",
+    "chapter": 9,
+    "set": 1,
+    "question": "The Nil-Ductility Temperature causes __ to __ transition failure at __ temperature.",
+    "options": [
+      "brittle; ductile; high",
+      "ductile; brittle; low",
+      "creep; fatigue; low",
+      "fatigue; creep; high",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-004",
+    "chapter": 9,
+    "set": 1,
+    "question": "Fatigue failure arises due to __ loading at __ to __ cycles.",
+    "options": [
+      "constant; medium; high",
+      "cyclic; low; high",
+      "cyclic; medium; high",
+      "constant; medium; low",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-005",
+    "chapter": 9,
+    "set": 1,
+    "question": "Creep failure occurs due to __ times at __ temperatures due to slow elongation.",
+    "options": [
+      "long; low",
+      "short; low",
+      "short; high",
+      "long; high",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-006",
+    "chapter": 9,
+    "set": 1,
+    "question": "Stress-corrosion cracking failure can arise due to __ cracking agents.",
+    "options": [
+      "creep",
+      "fatigue",
+      "liquid",
+      "electromigration",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-007",
+    "chapter": 9,
+    "set": 1,
+    "question": "The failure type can be correlated with __ and __ fracture __.",
+    "options": [
+      "macroscopic; microscopic; appearance",
+      "stress; strain; bodies",
+      "stress; strain; nodules",
+      "macroscopic; microscopic; nodules",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-008",
+    "chapter": 9,
+    "set": 1,
+    "question": "We can prevent metal failures with __ prediction, good __, materials __, materials __ and __ in service.",
+    "options": [
+      "design; testing; selection; inspection; lifetime",
+      "lifetime; design; testing; selection; inspection",
+      "testing; selection; inspection; lifetime; design",
+      "selection; inspection; lifetime; design; testing",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-009",
+    "chapter": 9,
+    "set": 1,
+    "question": "If a metal pipe fails with ductile failure, we would typically see the metal pipe in __ piece (or pieces), with __ deformation, and __ plastic deformation.",
+    "options": [
+      "many; very small amounts of; much",
+      "many; large amounts of; no",
+      "one; large amounts of; much",
+      "one; very small amounts of; no",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-010",
+    "chapter": 9,
+    "set": 1,
+    "question": "If a metal pipe fails with brittle failure, we would see typically see the metal pipe in __ piece/pieces, with __ deformation, and __ plastic deformation.",
+    "options": [
+      "many; very small amounts of; much",
+      "many; large amounts of; no",
+      "one; large amounts of; much",
+      "many; small amounts of; very little extent of",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-011",
+    "chapter": 9,
+    "set": 1,
+    "question": "Ductile fracture is usually __ compared to brittle fracture of a metal part.",
+    "options": [
+      "undesirable",
+      "larger",
+      "desirable",
+      "smaller",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-012",
+    "chapter": 9,
+    "set": 1,
+    "question": "Ductile fracture typically gives us __ before the fracture.",
+    "options": [
+      "no warning",
+      "warning",
+      "no elongation",
+      "brittleness",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-013",
+    "chapter": 9,
+    "set": 1,
+    "question": "Brittle fracture typically gives us __ before the fracture.",
+    "options": [
+      "warning",
+      "no warning",
+      "elongation",
+      "ductility",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-014",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a very ductile fracture, there is a __ amount of % elongation of the material.",
+    "options": [
+      "zero",
+      "large",
+      "infinite",
+      "very small",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-015",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a moderately ductile fracture, there is a __ amount of % elongation of the material.",
+    "options": [
+      "zero",
+      "very large",
+      "moderate",
+      "infinite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-016",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a brittle fracture, there is a __ amount of % elongation of the material.",
+    "options": [
+      "very large",
+      "infinite",
+      "moderate",
+      "very small",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-017",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a very ductile fracture, there is a __ amount of % reduction in cross-sectional area of the material.",
+    "options": [
+      "zero",
+      "large",
+      "infinite",
+      "very small",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-018",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a moderately ductile fracture, there is a __ amount of % reduction in cross-sectional area of the material.",
+    "options": [
+      "zero",
+      "very large",
+      "moderate",
+      "infinite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-019",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a brittle fracture, there is a __ amount of % reduction in cross-sectional area of the material.",
+    "options": [
+      "very large",
+      "infinite",
+      "moderate",
+      "very small",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-020",
+    "chapter": 9,
+    "set": 1,
+    "question": "The microscopic mechanisms of ductile fracture include __, __, __, __ and fracture.",
+    "options": [
+      "necking; void nucleation; void growth and linkage; shearing at the surface",
+      "stacking; void nucleation; void growth and linkage; twisting at the surface",
+      "necking; precipitate nucleation; precipitate growth and linkage; elongation at the surface",
+      "stacking; precipitate nucleation; void growth and linkage; smoothening at the surface",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-021",
+    "chapter": 9,
+    "set": 1,
+    "question": "Particles are commonly __ nucleation sites during __ fracture of a metal.",
+    "options": [
+      "precipitate; brittle",
+      "second-phase; ductile",
+      "void; ductile",
+      "grain; brittle",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-022",
+    "chapter": 9,
+    "set": 1,
+    "question": "A brittle fracture is characterized by a __ or __ fracture surface.",
+    "options": [
+      "rounded; curved",
+      "flat; faceted",
+      "parabolic; curved",
+      "exponential; decaying",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-023",
+    "chapter": 9,
+    "set": 1,
+    "question": "A brittle fracture is characterized by comparatively little __ deformation and low __.",
+    "options": [
+      "elastic; fatigue",
+      "plastic; fatigue",
+      "elastic; creep",
+      "plastic; ductility",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-024",
+    "chapter": 9,
+    "set": 1,
+    "question": "Chevron marks on the fracture surface are indicative of __ fracture.",
+    "options": [
+      "brittle",
+      "ductile",
+      "creep",
+      "fatigue",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-025",
+    "chapter": 9,
+    "set": 1,
+    "question": "In brittle fracture, the origin of the crack can be indicated by __ shaped ridges coming from the location of the __ of the crack.",
+    "options": [
+      "pyramid; origin",
+      "circle; mid-point",
+      "fan; origin",
+      "rectangle; mid-point",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-026",
+    "chapter": 9,
+    "set": 1,
+    "question": "In an intergranular fracture, the fracture surface __ grainboundaries.",
+    "options": [
+      "travels across",
+      "travels along",
+      "stops at",
+      "reflects at",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-027",
+    "chapter": 9,
+    "set": 1,
+    "question": "In a transgranular fracture, the fracture surface __ grainboundaries.",
+    "options": [
+      "travels across",
+      "travels along",
+      "cuts across",
+      "stops at",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-028",
+    "chapter": 9,
+    "set": 1,
+    "question": "Flaws in a metal are stress __.",
+    "options": [
+      "reflectors",
+      "concentrators",
+      "minimizers",
+      "eliminators",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-029",
+    "chapter": 9,
+    "set": 1,
+    "question": "A Griffith crack results in __ at its tip.",
+    "options": [
+      "stress reflection",
+      "strain diffusion",
+      "strain creep",
+      "stress concentration",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s1-030",
+    "chapter": 9,
+    "set": 1,
+    "question": "A Griffith crack __ the applied stress (sigma-zero) by a factor Kt at the __. Kt is called the __ factor.",
+    "options": [
+      "reduces; crack tip; strain-reduction",
+      "amplifies; crack tip; stress-concentration",
+      "reduces; crack middle; stress-reduction",
+      "amplifies; crack middle; stress-concentration",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-001",
+    "chapter": 9,
+    "set": 2,
+    "question": "In a Griffith crack, the stress concentration factor Kt = __, where a is the crack length, and rho is the radius of curvature of the tip of the crack.",
+    "options": [
+      "2*SQRT(a*rho)",
+      "2*SQRT(a+rho)",
+      "2*SQRT(a-rho)",
+      "2*SQRT(a/rho)",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-002",
+    "chapter": 9,
+    "set": 2,
+    "question": "For a given applied stress, a longer crack in a metal results in a __ stress at the crack-tip.",
+    "options": [
+      "lower",
+      "higher",
+      "same level of",
+      "a much lower",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-003",
+    "chapter": 9,
+    "set": 2,
+    "question": "For a given applied stress, a sharper crack-tip in a metal results in a __ stress at the crack-tip.",
+    "options": [
+      "higher",
+      "lower",
+      "same level of",
+      "a much lower",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-004",
+    "chapter": 9,
+    "set": 2,
+    "question": "An engineering design principle that is used to minimize fracture, is to avoid __.",
+    "options": [
+      "rounded corners",
+      "sharp corners",
+      "flat surfaces",
+      "gently curved surfaces",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-005",
+    "chapter": 9,
+    "set": 2,
+    "question": "A designed part has a wider region with width W connected to a narrower section with a width H. A part has a fillet radius-of-curvature of R where the wider part is connected to the narrower part. When the radius-of-curvature R is decreased, the likelihood of fracture __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "becomes zero",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-006",
+    "chapter": 9,
+    "set": 2,
+    "question": "A designed part has a wider region with width W connected to a narrower section with a width H. When W/H increases, the region of safety-from-failure (to the left of the Kt curve) on the stress-concentration factor vs fillet radius plot __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "becomes zero",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-007",
+    "chapter": 9,
+    "set": 2,
+    "question": "The stress concentration factor, Kt = __.",
+    "options": [
+      "minimum stress/ applied stress",
+      "maximum stress/ applied stress",
+      "applied stress/ maximum stress",
+      "minimum strain/ applied stress",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-008",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness Kc = __, where Y is a crack-geometry factor, A is the flaw size, S = applied stress, Pi = 3.1415.",
+    "options": [
+      "Y*S*SQRT(Pi/A)",
+      "Y/S*SQRT(Pi/A)",
+      "Y*S*SQRT(Pi*A)",
+      "Y/S*SQRT(Pi*A)",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-009",
+    "chapter": 9,
+    "set": 2,
+    "question": "To prevent fracture in the case where the maximum flaw-size is known, the designed maximum stress sigma-design must be less than __, where Kc is the fracture toughness of the material, Y is the crack-geometry factor, Amax is the maximum flaw-size that is detected in the material.",
+    "options": [
+      "Kc*(Y*SQRT(Pi*Amax))",
+      "Kc/(Y*SQRT(Pi*Amax))",
+      "Kc+(Y*SQRT(Pi*Amax))",
+      "Kc-(Y*SQRT(Pi*Amax))",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-010",
+    "chapter": 9,
+    "set": 2,
+    "question": "To prevent fracture in the case where the design stress is known, the designed maximum flaw-size in the material (Amax) must be less than __, where Kc is the fracture toughness of the material, Y is the crack-geometry factor, sigma-design is the designed stress, and Amax is the maximum flaw-size that is detected in the material.",
+    "options": [
+      "1*Pi*(Kc/(Y*sigma-design)^2",
+      "1*Pi/(Kc/(Y*sigma-design)^2",
+      "1/Pi*(Kc/(Y*sigma-design)^2",
+      "1/Pi*(Kc*(Y*sigma-design)^2",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-011",
+    "chapter": 9,
+    "set": 2,
+    "question": "When a material is stressed, the __ of the cracks grows first, compared to other __ cracks.",
+    "options": [
+      "largest; smaller",
+      "smallest; larger",
+      "most rounded; sharper",
+      "middle; areas of the",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-012",
+    "chapter": 9,
+    "set": 2,
+    "question": "When a material is stressed, the __ stressed of the cracks grows first, compared to other __ stressed cracks.",
+    "options": [
+      "middle; edge",
+      "edge; middle",
+      "lowest; more highly",
+      "most highly; lower-",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-013",
+    "chapter": 9,
+    "set": 2,
+    "question": "A test to measure the fracture toughness of metals measures the __ for new surface creation by the propagating fracture.",
+    "options": [
+      "energy",
+      "stress",
+      "strain",
+      "volume",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-014",
+    "chapter": 9,
+    "set": 2,
+    "question": "For a brittle material, the fracture toughness is __.",
+    "options": [
+      "very high",
+      "moderately high",
+      "low",
+      "zero",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-015",
+    "chapter": 9,
+    "set": 2,
+    "question": "For a ductile material, the fracture toughness is __.",
+    "options": [
+      "high",
+      "low",
+      "zero",
+      "infinite",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-016",
+    "chapter": 9,
+    "set": 2,
+    "question": "In fracture testing, a mode-I fracture is __ kind of fracture.",
+    "options": [
+      "an opening",
+      "a shear",
+      "a twist",
+      "a turning",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-017",
+    "chapter": 9,
+    "set": 2,
+    "question": "In fracture testing, a mode-II fracture is __ kind of fracture.",
+    "options": [
+      "an out-of-plane opening",
+      "an in-plane shear",
+      "a turning",
+      "a rotary twist",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-018",
+    "chapter": 9,
+    "set": 2,
+    "question": "In fracture testing, a mode-III fracture is __ kind of fracture.",
+    "options": [
+      "an in-plane shear",
+      "an out-of-plane opening",
+      "an out-of-plane shear",
+      "a twist",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-019",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of metals is __ that of diamond.",
+    "options": [
+      "less than",
+      "greater than",
+      "the same as",
+      "zero compared to",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-020",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of diamond is __ that of concrete.",
+    "options": [
+      "less than",
+      "the same as",
+      "greater than",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-021",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of diamond is __ that of a polymer like polyester.",
+    "options": [
+      "less than",
+      "the same as",
+      "greater than",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-022",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of carbon-carbon composites (parallel to the fibers) is __ that of a polymer like polyester.",
+    "options": [
+      "less than",
+      "the same as",
+      "greater than",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-023",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of carbon-carbon composites (parallel to the fibers) is __ that of diamond.",
+    "options": [
+      "less than",
+      "the same as",
+      "greater than",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-024",
+    "chapter": 9,
+    "set": 2,
+    "question": "The fracture toughness of glass is __ that of aluminum metal.",
+    "options": [
+      "less than",
+      "the same as",
+      "greater than",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-025",
+    "chapter": 9,
+    "set": 2,
+    "question": "Low-temperature ductile-to-brittle failure has destroyed many __.",
+    "options": [
+      "cars",
+      "ships",
+      "houses",
+      "airplanes",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-026",
+    "chapter": 9,
+    "set": 2,
+    "question": "Steels used in ships had a ductile-to-brittle transition temperature just below __ degrees Celsius.",
+    "options": [
+      "0",
+      "100",
+      "500",
+      "25",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-027",
+    "chapter": 9,
+    "set": 2,
+    "question": "A __ test is used to predict the transition temperature of a material.",
+    "options": [
+      "transition",
+      "Charpy Impact",
+      "temperature",
+      "material",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-028",
+    "chapter": 9,
+    "set": 2,
+    "question": "For metals, a fracture at a relatively higher temperature leads to __ fracture.",
+    "options": [
+      "ductile",
+      "brittle",
+      "shear",
+      "planar",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-029",
+    "chapter": 9,
+    "set": 2,
+    "question": "For metals, a fracture at a relatively lower temperature leads to __ fracture.",
+    "options": [
+      "ductile",
+      "brittle",
+      "shear",
+      "planar",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch9-s2-030",
+    "chapter": 9,
+    "set": 2,
+    "question": "In the Charpy impact test, a brittle fracture results in a __ impact energy.",
+    "options": [
+      "greater",
+      "lower",
+      "same",
+      "oscillating",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
