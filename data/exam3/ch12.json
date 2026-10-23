@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "ch12-s1-001",
+    "chapter": 12,
+    "set": 1,
+    "question": "Some of the key concepts associated with phase diagrams include __ and __.",
+    "options": [
+      "solubility; solubility limit; saturation; solubility-limit lines",
+      "voiding; vacancy limit; saturation; solubility-limit lines",
+      "solubility; vacancy limit; saturation; solubility-limit lines",
+      "solubility; solubility limit; substitutional saturation; interstitial-limit lines",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-002",
+    "chapter": 12,
+    "set": 1,
+    "question": "A solubility limit line (on a phase diagram) is also called a __.",
+    "options": [
+      "liquidus",
+      "solvus",
+      "solidus",
+      "solidus",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-003",
+    "chapter": 12,
+    "set": 1,
+    "question": "__-phase reaction occurs when at a particular __, a liquid L converts to __ and __.",
+    "options": [
+      "peritectic; temperature; solid alpha; liquid beta",
+      "eutectic; temperature; solid alpha; solid beta",
+      "eutectic; pressure; liquid alpha; solid beta",
+      "eutectic; volume; liquid alpha; liquid beta",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-004",
+    "chapter": 12,
+    "set": 1,
+    "question": "Given a __ and alloy composition, we can use a phase diagram to determine the __ that are present in a __ region of the phase diagram.",
+    "options": [
+      "pressure; dislocation r; 1-phase or 2-phase",
+      "volume; vacancies; 1-phase or 2-phase",
+      "temperature; interstitials; 2-phase or 3-phase",
+      "temperature; phases; 1-phase or 2-phase",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-005",
+    "chapter": 12,
+    "set": 1,
+    "question": "Given a __ and alloy composition, we can use a phase diagram to determine the __ positions of each phase or phases that are present.",
+    "options": [
+      "temperature; mechanical",
+      "pressure; chemical",
+      "volume; electrical",
+      "density, magnetic",
+      "temperature; chemical"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-006",
+    "chapter": 12,
+    "set": 1,
+    "question": "Given a __ and alloy composition, we can use a phase diagram to determine the __ of each phase or phases that are present.",
+    "options": [
+      "temperature; weight-fractions",
+      "temperature; volumes",
+      "pressure; weight-fractions",
+      "volume; absolute masses",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-007",
+    "chapter": 12,
+    "set": 1,
+    "question": "In a Pb-Sn solder alloy, phase alpha is a __ phase.",
+    "options": [
+      "fcc-rich",
+      "Pb-rich",
+      "Pb and Sn-rich",
+      "eutectic",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-008",
+    "chapter": 12,
+    "set": 1,
+    "question": "In a Pb-Sn solder alloy, phase beta is a __ phase.",
+    "options": [
+      "Sn-rich",
+      "Pb-rich",
+      "Pb and Sn-rich",
+      "eutectic",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-009",
+    "chapter": 12,
+    "set": 1,
+    "question": "Pure lead has a __ crystal structure.",
+    "options": [
+      "BCC",
+      "HCP",
+      "FCC",
+      "BCT",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-010",
+    "chapter": 12,
+    "set": 1,
+    "question": "Pure tin has a __ crystal structure at room temperature.",
+    "options": [
+      "BCC",
+      "HCP",
+      "BCT",
+      "FCC",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-011",
+    "chapter": 12,
+    "set": 1,
+    "question": "A HCP crystal structure is a __ structure.",
+    "options": [
+      "Hexagonal Close-Packed",
+      "Hexagonal Cubic Centered",
+      "Hexagonal Centered Cubic",
+      "Hexagonal Close-Nailed",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-012",
+    "chapter": 12,
+    "set": 1,
+    "question": "A BCT crystal structure is a __ structure.",
+    "options": [
+      "body-centered tetrahedral",
+      "body-closed tetrahedral",
+      "body-centered tetragonal",
+      "base-centered tetrahedral",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-013",
+    "chapter": 12,
+    "set": 1,
+    "question": "Pb-Sn solder bumps are used in the semiconductor industry, to connect a __ to a __.",
+    "options": [
+      "gate; source",
+      "microprocessor; an integrated circuit board",
+      "capacitor; oxide",
+      "microcomputer; silicon substrate",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-014",
+    "chapter": 12,
+    "set": 1,
+    "question": "Phase diagrams help us to infer the expected __ of a particular phase in an alloy system.",
+    "options": [
+      "density",
+      "mass",
+      "volume",
+      "microstructure",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-015",
+    "chapter": 12,
+    "set": 1,
+    "question": "The microstructure of a particular phase (in an alloy system) determines its __.",
+    "options": [
+      "mass",
+      "properties",
+      "volume",
+      "pressure",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-016",
+    "chapter": 12,
+    "set": 1,
+    "question": "In the Fe-Fe3C phase diagram, the compound Fe3C is also called __.",
+    "options": [
+      "cementite",
+      "pearlite",
+      "ferrite",
+      "austenite",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-017",
+    "chapter": 12,
+    "set": 1,
+    "question": "In the Fe-Fe3C phase diagram, the phase alpha-iron is also called __.",
+    "options": [
+      "cementite",
+      "pearlite",
+      "ferrite",
+      "austenite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-018",
+    "chapter": 12,
+    "set": 1,
+    "question": "In the Fe-Fe3C phase diagram, the phase gamma-iron is also called __.",
+    "options": [
+      "cementite",
+      "pearlite",
+      "ferrite",
+      "austenite",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-019",
+    "chapter": 12,
+    "set": 1,
+    "question": "Solder bumps are used for integrated-circuit __ technology.",
+    "options": [
+      "soldering",
+      "marrying",
+      "ferrite",
+      "flip chip",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-020",
+    "chapter": 12,
+    "set": 1,
+    "question": "The highest shear strength for Pb-Sn solder balls occurs at a composition of about __ % Sn.",
+    "options": [
+      "0.62",
+      "6.2",
+      "62",
+      "620",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-021",
+    "chapter": 12,
+    "set": 1,
+    "question": "The lowest melting point alloy in the Pb-Sn phase diagram is the alloy with the eutectic composition. This eutectic composition has about __ % tin.",
+    "options": [
+      "0.62",
+      "6.2",
+      "620",
+      "62",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-022",
+    "chapter": 12,
+    "set": 1,
+    "question": "When you add sugar to water, the sugar __ into the water.",
+    "options": [
+      "melts",
+      "dissolves",
+      "solidifies",
+      "liquefies",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-023",
+    "chapter": 12,
+    "set": 1,
+    "question": "As you keep adding sugar to water, the sugar __ into the water, until it reaches a point where no more sugar can __ into the water. That point is called the __.",
+    "options": [
+      "melts; melt; melting limit",
+      "liquefies; liquefy; liquefaction threshold",
+      "dissolves; dissolve; solubility limit",
+      "dissolves; dissolve; solubility threshold",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-024",
+    "chapter": 12,
+    "set": 1,
+    "question": "On a temperature versus composition diagram (for sugar dissolving into water), the solubility limit is depicted as a __ on the diagram.",
+    "options": [
+      "straight line",
+      "curved line",
+      "horizontal line",
+      "vertical line",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-025",
+    "chapter": 12,
+    "set": 1,
+    "question": "At sugar compositions that are lower than the __ limit, the sugar is __ in the water. There is __ solid sugar left in the water.",
+    "options": [
+      "melting; liquid; a lot of",
+      "liquefaction; solid; some",
+      "solubility; completely dissolved; no",
+      "solubility; partially dissolved; some",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-026",
+    "chapter": 12,
+    "set": 1,
+    "question": "At sugar compositions that are higher than the __ limit, the sugar is __ in the water. There is __ solid sugar left in the water.",
+    "options": [
+      "solubility; completely dissolved; no",
+      "solubility; completely dissolved; no",
+      "solubility; only partly dissolved; some",
+      "solubility; completely dissolved; no",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-027",
+    "chapter": 12,
+    "set": 1,
+    "question": "As the temperature of a sugar-water mixture is increased, the solubility of sugar (in the water) __.",
+    "options": [
+      "decreases",
+      "stays the same",
+      "becomes zero",
+      "increases",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-028",
+    "chapter": 12,
+    "set": 1,
+    "question": "An unsaturated sugar-water liquid solution is a solution where there is __ for more sugar to dissolve into the liquid water.",
+    "options": [
+      "no more room",
+      "room",
+      "density",
+      "no density",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-029",
+    "chapter": 12,
+    "set": 1,
+    "question": "A saturated sugar-water liquid solution is where there is __ for more sugar to dissolve into the liquid water.",
+    "options": [
+      "more",
+      "density",
+      "no more",
+      "density",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s1-030",
+    "chapter": 12,
+    "set": 1,
+    "question": "In a saturated sugar-water liquid solution the amount of dissolved sugar is __ the solubility limit of sugar in water.",
+    "options": [
+      "below",
+      "above",
+      "zero compared to",
+      "right at",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-001",
+    "chapter": 12,
+    "set": 2,
+    "question": "In an unsaturated sugar-water liquid solution the amount of dissolved sugar is __ the solubility limit of sugar in water.",
+    "options": [
+      "above",
+      "right at",
+      "below",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-002",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a supersaturated sugar-water liquid solution the amount of dissolved sugar is __ the solubility limit of sugar in water.",
+    "options": [
+      "below",
+      "right at",
+      "above",
+      "infinite compared to",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-003",
+    "chapter": 12,
+    "set": 2,
+    "question": "When we cool a supersaturated sugar-water syrup, the sugar __.",
+    "options": [
+      "dissolves some more into the water",
+      "precipitates out of the water",
+      "stays in the water",
+      "melts in the water",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-004",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a phase diagram, the eutectic temperature is the temperature at which __ takes place.",
+    "options": [
+      "solidification",
+      "liquefaction",
+      "melting",
+      "the eutectic reaction",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-005",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a eutectic reaction, a __ liquid cools to a __ solid of eutectic __.",
+    "options": [
+      "two-phase; single-phase alpha",
+      "two-phase; single-phase; beta",
+      "two-phase; two-phase alpha - beta",
+      "single-phase; two-phase; alpha + beta",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-006",
+    "chapter": 12,
+    "set": 2,
+    "question": "The eutectic reaction occurs at a point on the phase diagram where the temperature is __ the eutectic temperature and the concentration is __ the eutectic concentration.",
+    "options": [
+      "above; above",
+      "at; at",
+      "below, below",
+      "below; above",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-007",
+    "chapter": 12,
+    "set": 2,
+    "question": "The eutectic composition is the composition at which __ occurs.",
+    "options": [
+      "solidification",
+      "liquefaction",
+      "melting",
+      "the eutectic reaction",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-008",
+    "chapter": 12,
+    "set": 2,
+    "question": "A hypoeutectic composition is an alloy composition to the __ of the __ composition on the phase diagram, containing __ of component B compared to the eutectic concentration.",
+    "options": [
+      "right; eutectic; more",
+      "left; eutectic; less",
+      "left; eutectic; more",
+      "right; eutectic; more",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-009",
+    "chapter": 12,
+    "set": 2,
+    "question": "The region labelled alpha+L on a eutectic phase diagram is a __ region consisting of __.",
+    "options": [
+      "single phase; single-phase alpha",
+      "two phase; single-phase alpha - liquid",
+      "single phase; proeutectic liquid",
+      "two-phase; proeutectic alpha - proeutectic liquid",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-010",
+    "chapter": 12,
+    "set": 2,
+    "question": "The region labelled beta+L on a eutectic phase diagram is a __ region consisting of __.",
+    "options": [
+      "single phase; proeutectic beta",
+      "two-phase; proeutectic beta - liquid",
+      "single-phase; proeutectic liquid",
+      "two-phase; proeutectic beta - proeutectic liquid",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-011",
+    "chapter": 12,
+    "set": 2,
+    "question": "The region labelled alpha+beta on a eutectic phase diagram is a two-phase region consisting of __ phases.",
+    "options": [
+      "only proeutectic alpha - beta",
+      "only eutectic alpha + beta",
+      "combinations of proeutectic and eutectic alpha + beta",
+      "only proeutectic alpha + eutectic beta",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-012",
+    "chapter": 12,
+    "set": 2,
+    "question": "The alpha+beta region is __ the solidus line on an eutectic phase diagram.",
+    "options": [
+      "above",
+      "below",
+      "at",
+      "to the right of",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-013",
+    "chapter": 12,
+    "set": 2,
+    "question": "A hypereutectic composition is an alloy composition __ the eutectic composition on the phase diagram, containing __ of component B compared to the eutectic concentration.",
+    "options": [
+      "to the left of; less",
+      "at the same amount",
+      "to the right of; more",
+      "to the left of; more",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-014",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a Pb-Sn eutectic phase diagram, the region labelled alpha is a single-phase __ region consisting of solid alpha-phase that extends to the __.",
+    "options": [
+      "Sn-rich; alpha solubility limit line",
+      "Pb-rich; alpha solubility limit line",
+      "Pb-rich; beta solubility limit line",
+      "Sn-rich; beta solubility limit line",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-015",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a Pb-Sn eutectic phase diagram, the alpha solubility limit line is also called the __.",
+    "options": [
+      "solidus",
+      "liquidus",
+      "solvus",
+      "alphaus",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-016",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a Pb-Sn eutectic phase diagram, the region labelled beta is a single-phase __ region consisting of solid beta-phase that extends to the __.",
+    "options": [
+      "Sn-rich; alpha solubility limit line",
+      "Pb-rich; alpha solubility limit line",
+      "Pb-rich; beta solubility limit line",
+      "Sn-rich; beta solubility limit line",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-017",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a Pb-Sn eutectic phase diagram, the beta solubility limit line is also called the __.",
+    "options": [
+      "solidus",
+      "liquidus",
+      "solvus",
+      "betaus",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-018",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a Pb-Sn eutectic phase diagram, during the eutectic reaction, liquid forms solid-1 (which is composed of Pb with the __ of __ in it) and solid-2 (composed of Sn with the __ of __ in it).",
+    "options": [
+      "liquid limit; fin; solid limit; Pb",
+      "solubility-limit; Pb; solubility-limit; Sn",
+      "solubility-limit; Sn; solubility-limit; Pb",
+      "liquid-limit; Pb; solid-limit; Sn",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-019",
+    "chapter": 12,
+    "set": 2,
+    "question": "In the Pb-Sn phase diagram, the eutectic composition is about __ %sn.",
+    "options": [
+      "0.62",
+      "6.2",
+      "62",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-020",
+    "chapter": 12,
+    "set": 2,
+    "question": "In the Pb-Sn phase diagram, the eutectic temperature is about __ degrees C.",
+    "options": [
+      "183",
+      "100",
+      "15.5",
+      "1400",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-021",
+    "chapter": 12,
+    "set": 2,
+    "question": "Phase diagrams are tools that map out the __ present as a function of __ and __.",
+    "options": [
+      "liquids; pressure; volume",
+      "phases; temperature; composition",
+      "solids; pressure; volume",
+      "phases; pressure; temperature",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-022",
+    "chapter": 12,
+    "set": 2,
+    "question": "Given the temperature and composition of an alloy system, the phase diagram describes the __ and __ of the phases that are present.",
+    "options": [
+      "density; mass",
+      "pressure; volume",
+      "number; type",
+      "energy; time",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-023",
+    "chapter": 12,
+    "set": 2,
+    "question": "Given the temperature and composition of an alloy system, the phase diagram describes the __ of each phase that is present.",
+    "options": [
+      "electrical charge",
+      "chemical composition",
+      "magnetic poles",
+      "mechanical properties",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-024",
+    "chapter": 12,
+    "set": 2,
+    "question": "Given the temperature and composition of an alloy system, the phase diagram describes the __ of each phase that is present.",
+    "options": [
+      "volume",
+      "mass",
+      "weight fraction",
+      "density",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-025",
+    "chapter": 12,
+    "set": 2,
+    "question": "The most important phase reactions in a phase diagram are the __ and __ reactions.",
+    "options": [
+      "peritectic; perectoid",
+      "peritectic; peritectoid",
+      "eutectic; peritectoid",
+      "eutectic; eutectoid",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-026",
+    "chapter": 12,
+    "set": 2,
+    "question": "Less important phase reactions in a phase diagram are the __ and __ reactions.",
+    "options": [
+      "eutectic eutectoid; eutectoid",
+      "protetic; peritectoid; protectome",
+      "peritectic; peritectoid; monotonic",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-027",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a phase diagram, all of the material is liquid above a line called the __.",
+    "options": [
+      "liquidus",
+      "solidus",
+      "solvus",
+      "phasic limit",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-028",
+    "chapter": 12,
+    "set": 2,
+    "question": "In a phase diagram, all of the material is solid below a line called the __.",
+    "options": [
+      "liquidus",
+      "solidus",
+      "solvus",
+      "phasic limit",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-029",
+    "chapter": 12,
+    "set": 2,
+    "question": "The eutectic point on a phase diagram occurs where the __ and __ lines meet.",
+    "options": [
+      "liquidus; solvus",
+      "solvus; solidus",
+      "liquidus; solidus",
+      "phasic limit; solvus",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch12-s2-030",
+    "chapter": 12,
+    "set": 2,
+    "question": "Cooling an alloy at the eutectic point results in a reaction where a __ liquid cools to form a __ solid.",
+    "options": [
+      "two-phase; single-phase",
+      "two-phase; two-phase",
+      "single-phase; single-phase",
+      "single-phase; two-phase",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
