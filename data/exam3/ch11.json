@@ -1067,7 +1067,7 @@
     "set": 2,
     "question": "In general, the temperature for recrystallization of a metal is between __ and __ times that of the melting temperature.",
     "options": [
-      "above",
+      "0.3; 0.6",
       "0.005; 0.006",
       "3; 6",
       "300; 600",
