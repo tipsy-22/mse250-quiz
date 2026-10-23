@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch11-s1-001",
+    "chapter": 11,
+    "set": 1,
+    "question": "Plastic deformation of metals occurs by motion of __.",
+    "options": [
+      "strain",
+      "dislocations",
+      "stress",
+      "vacancies",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-002",
+    "chapter": 11,
+    "set": 1,
+    "question": "On a microscopic scale, metals are strengthened by atomic-level __ that impede __ of __.",
+    "options": [
+      "barriers; motion; dislocations",
+      "resistive; resistance; electrons",
+      "vacancies; annihilation; vacancies",
+      "substitutionals; annihilation of interstitials",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-003",
+    "chapter": 11,
+    "set": 1,
+    "question": "Stress-strain curves of metals can be modified by __ hardening, __ strengthening and __ reduction.",
+    "options": [
+      "stress; heat; impurity",
+      "strain; heat; impurity",
+      "strain; solid-solution; grain-size",
+      "stress; solid-solution; grain-size",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-004",
+    "chapter": 11,
+    "set": 1,
+    "question": "There are __ mechanisms of annealing for cold-worked metals.",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "3",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-005",
+    "chapter": 11,
+    "set": 1,
+    "question": "There are differences in __ for cold-working versus hot-working of metals.",
+    "options": [
+      "mass processed",
+      "velocity of use",
+      "processing conditions",
+      "all of the above",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-006",
+    "chapter": 11,
+    "set": 1,
+    "question": "Cold-working results in different __ of metals compared to hot-working.",
+    "options": [
+      "properties",
+      "masses",
+      "velocities",
+      "processes",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-007",
+    "chapter": 11,
+    "set": 1,
+    "question": "Methods that are used to shape metal parts include __, __ and __.",
+    "options": [
+      "sintering; extrusion; drawing; forging; deep drawing",
+      "rolling; sintering; drawing; forging; deep drawing",
+      "rolling; extrusion; drawing; forging; deep drawing",
+      "rolling; extrusion; drawing; sintering; deep drawing",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-008",
+    "chapter": 11,
+    "set": 1,
+    "question": "Cold working of a metal results in __ of the metal.",
+    "options": [
+      "strain softening",
+      "strain hardening",
+      "creep",
+      "fatigue hardening",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-009",
+    "chapter": 11,
+    "set": 1,
+    "question": "Deformation processing reduces the __ of the metal.",
+    "options": [
+      "cross-sectional area",
+      "length",
+      "weight",
+      "mass",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-010",
+    "chapter": 11,
+    "set": 1,
+    "question": "Aluminum rods are formed by a process of __.",
+    "options": [
+      "forging",
+      "drawing",
+      "rolling",
+      "extrusion",
+      "intrusion"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-011",
+    "chapter": 11,
+    "set": 1,
+    "question": "Steel slabs are formed by a process of __.",
+    "options": [
+      "forging",
+      "drawing",
+      "rolling",
+      "extrusion",
+      "intrusion"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-012",
+    "chapter": 11,
+    "set": 1,
+    "question": "Metal wire coils are formed by a process of __.",
+    "options": [
+      "forging",
+      "drawing",
+      "rolling",
+      "extrusion",
+      "intrusion"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-013",
+    "chapter": 11,
+    "set": 1,
+    "question": "An auto-engine connecting rod is formed by a process of __.",
+    "options": [
+      "forging",
+      "drawing",
+      "rolling",
+      "extrusion",
+      "intrusion"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-014",
+    "chapter": 11,
+    "set": 1,
+    "question": "Cold-working increases the __ density, __ strength and __ strength.",
+    "options": [
+      "vacancy; interstitial; substitutional",
+      "dislocation; yield; tensile",
+      "interstitial; yield; compressive",
+      "dislocation; substitutional; compressive",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-015",
+    "chapter": 11,
+    "set": 1,
+    "question": "Dislocation density is defined as the total dislocation __ per unit __.",
+    "options": [
+      "volume; volume of material",
+      "area; volume",
+      "length; volume",
+      "volume; mass of material",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-016",
+    "chapter": 11,
+    "set": 1,
+    "question": "An as-received metal has a typical dislocation density of __ cm/cm^3.",
+    "options": [
+      "8",
+      "1E8",
+      "1E80",
+      "1E800",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-017",
+    "chapter": 11,
+    "set": 1,
+    "question": "A heavily deformed metal has a typical dislocation density of __ cm/cm^3.",
+    "options": [
+      "15",
+      "150",
+      "1E13",
+      "1E130",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-018",
+    "chapter": 11,
+    "set": 1,
+    "question": "Annealing a cold-worked metal lowers the dislocation density to about __ cm/cm^3.",
+    "options": [
+      "8",
+      "80",
+      "800",
+      "1E8",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-019",
+    "chapter": 11,
+    "set": 1,
+    "question": "As the amount of cold-working of a metal is increased, the yield-strength of the metal __.",
+    "options": [
+      "decreases",
+      "stays the same",
+      "increases",
+      "decreases then increases",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-020",
+    "chapter": 11,
+    "set": 1,
+    "question": "As the amount of cold-working of a metal is increased, the tensile-strength of the metal __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "decreases then increases",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-021",
+    "chapter": 11,
+    "set": 1,
+    "question": "As the amount of cold-working of a metal is increased, the ductility of the metal __.",
+    "options": [
+      "increases",
+      "stays the same",
+      "decreases",
+      "decreases then increases",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-022",
+    "chapter": 11,
+    "set": 1,
+    "question": "In solid-solution hardening, impurity atoms distort the __ and generate __.",
+    "options": [
+      "interstitials; substitutionals",
+      "interstitial lattice; substitutional crystals",
+      "crystal lattice; lattice strains",
+      "crystal lattice; substitutional vacancies",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-023",
+    "chapter": 11,
+    "set": 1,
+    "question": "In solid-solution hardening, local lattice __ caused by __ atoms act as barriers to __ motion.",
+    "options": [
+      "stresses; matrix; vacancy",
+      "strains; matrix; dislocation",
+      "transmutations; negative; interstitial",
+      "strains; impurity; dislocation",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-024",
+    "chapter": 11,
+    "set": 1,
+    "question": "Solid-solution alloying of Cu with Ni __ the tensile strength of the Cu.",
+    "options": [
+      "decreases",
+      "does not affect",
+      "increases to infinity",
+      "increases",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-025",
+    "chapter": 11,
+    "set": 1,
+    "question": "Solid-solution alloying of Cu with Ni __ the ductility of the Cu.",
+    "options": [
+      "decreases",
+      "does not affect",
+      "increases to infinity",
+      "increases",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-026",
+    "chapter": 11,
+    "set": 1,
+    "question": "Solid-solution alloying of Cu with Ni __ the % elongation of the Cu.",
+    "options": [
+      "decreases",
+      "does not affect",
+      "increases to infinity",
+      "increases",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-027",
+    "chapter": 11,
+    "set": 1,
+    "question": "Solid-solution alloying of Cu with Ni __ the % reduction in cross-sectional area of the Cu.",
+    "options": [
+      "decreases",
+      "does not affect",
+      "increases to infinity",
+      "increases",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-028",
+    "chapter": 11,
+    "set": 1,
+    "question": "Adding Cu to Ni increases the strength of Ni because the Cu atoms create __ in the Ni which provide __ to __.",
+    "options": [
+      "global lattice-strains; enhancers; vacancy formation",
+      "local lattice-strains; barriers; dislocation motion",
+      "local lattice-strains; enhance; vacancy formation",
+      "global lattice-strains; barriers; dislocation formation",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-029",
+    "chapter": 11,
+    "set": 1,
+    "question": "Grain-size reduction __ the strength of a metal.",
+    "options": [
+      "decreases",
+      "increases",
+      "does not affect",
+      "increases to infinity",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s1-030",
+    "chapter": 11,
+    "set": 1,
+    "question": "Grain boundaries are __ to __.",
+    "options": [
+      "barriers; dislocation motion",
+      "enhancers; dislocation motion",
+      "indifferent; dislocation motion",
+      "barriers; dislocation formation",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-001",
+    "chapter": 11,
+    "set": 2,
+    "question": "Grain boundaries increase the strength of a metal by __.",
+    "options": [
+      "reducing dislocation motion",
+      "enhancing dislocation motion",
+      "enhancing dislocation formation",
+      "reducing vacancy formation",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-002",
+    "chapter": 11,
+    "set": 2,
+    "question": "Smaller grains result in __ grain-boundaries in the metal.",
+    "options": [
+      "less",
+      "the same amount of",
+      "more",
+      "zero",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-003",
+    "chapter": 11,
+    "set": 2,
+    "question": "When grains are smaller, the distance that dislocations travel before they encounter a barrier to motion becomes __.",
+    "options": [
+      "greater",
+      "smaller",
+      "the same",
+      "zero",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-004",
+    "chapter": 11,
+    "set": 2,
+    "question": "During slip, dislocations can __ at a grain-boundary.",
+    "options": [
+      "transmute",
+      "melt",
+      "convert to substitutionals",
+      "pile up",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-005",
+    "chapter": 11,
+    "set": 2,
+    "question": "The Hall-Petch equation relates the __ of a metal to its __.",
+    "options": [
+      "tension; grain-size",
+      "yield-strength; grain size",
+      "creep; grain size",
+      "fatigue; dislocation density",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-006",
+    "chapter": 11,
+    "set": 2,
+    "question": "The Hall-Petch equation shows that the yield-strength of a metal is __ to __ grain-size.",
+    "options": [
+      "proportional; the",
+      "inversely proportional; square-root of the",
+      "inversely proportional; the",
+      "proportional; square-root of the",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-007",
+    "chapter": 11,
+    "set": 2,
+    "question": "The three mechanisms that increase the strength of a single-phase metal are __, __ and __.",
+    "options": [
+      "interstitials; substitutionals; vacancies",
+      "strain hardening; solid-solution hardening; grain-size reduction",
+      "case hardening; hot hardening; cold hardening",
+      "strain hardening; transmutation hardening; grain-size reduction",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-008",
+    "chapter": 11,
+    "set": 2,
+    "question": "When a cold-worked metal is annealed, its yield-strength __.",
+    "options": [
+      "decreases",
+      "increase",
+      "stays the same",
+      "oscillates back and forth",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-009",
+    "chapter": 11,
+    "set": 2,
+    "question": "When a cold-worked metal is annealed, its tensile strength __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "oscillates back and forth",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-010",
+    "chapter": 11,
+    "set": 2,
+    "question": "When a cold-worked metal is annealed, its % elongation __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "oscillates back and forth",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-011",
+    "chapter": 11,
+    "set": 2,
+    "question": "When a cold-worked metal is annealed, its ductility __.",
+    "options": [
+      "decreases",
+      "increases",
+      "stays the same",
+      "oscillates back and forth",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-012",
+    "chapter": 11,
+    "set": 2,
+    "question": "The three stages of annealing are __, __ and __.",
+    "options": [
+      "cooling; heating; melting",
+      "freezing; melting; vaporization",
+      "recovery; recrystallization; vaporization",
+      "recovery; recrystallization; grain-growth",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-013",
+    "chapter": 11,
+    "set": 2,
+    "question": "During the Recovery phase of Annealing, the __ is reduced by __ of __.",
+    "options": [
+      "dislocation density; annihilation; dislocations",
+      "substitutional density; annihilation; substitutionals",
+      "dislocation density; formation; compression",
+      "substitutional density; enhancement; vacancies",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-014",
+    "chapter": 11,
+    "set": 2,
+    "question": "An edge dislocation has an extra __ compared to the pristine crystal lattice.",
+    "options": [
+      "line of atoms",
+      "plane of atoms",
+      "line of vacancies",
+      "plane of vacancies",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-015",
+    "chapter": 11,
+    "set": 2,
+    "question": "During annealing, atoms diffuse to the regions of __ at the edge of the edge dislocation.",
+    "options": [
+      "composition",
+      "neutral stress",
+      "tension",
+      "infinite stress",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-016",
+    "chapter": 11,
+    "set": 2,
+    "question": "When a positive and negative dislocation annihilate, they form __.",
+    "options": [
+      "perfect dislocation",
+      "an imperfect dislocation",
+      "a perfect atomic plane",
+      "a vacancy",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-017",
+    "chapter": 11,
+    "set": 2,
+    "question": "During the recrystallization phase of annealing, new __ form from deformed cold-worked metal.",
+    "options": [
+      "elements",
+      "grains",
+      "compounds",
+      "substitutionals",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-018",
+    "chapter": 11,
+    "set": 2,
+    "question": "The new grains that form during __ are __ with significantly __ dislocation density.",
+    "options": [
+      "recrystallization; small; reduced",
+      "recovery; large; increased",
+      "recrystallization; large; increased",
+      "recovery; small; reduced",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-019",
+    "chapter": 11,
+    "set": 2,
+    "question": "The small grains that initially form during recrystallization continue to __ and __ during the annealing process.",
+    "options": [
+      "annihilate; disappear",
+      "form; multiply",
+      "nucleate; grow",
+      "grow; consume cold-worked metal",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-020",
+    "chapter": 11,
+    "set": 2,
+    "question": "Grain growth __ at higher (compared to at lower) temperatures of annealing.",
+    "options": [
+      "is slower",
+      "is faster",
+      "occurs at the same rate",
+      "is faster and then slower",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-021",
+    "chapter": 11,
+    "set": 2,
+    "question": "During grain growth, a longer anneal time would typically result in __ grain size.",
+    "options": [
+      "a larger",
+      "a smaller",
+      "an unchanged",
+      "an oscillating",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-022",
+    "chapter": 11,
+    "set": 2,
+    "question": "During the grain-growth phase of recrystallization the average grain-size __ with time.",
+    "options": [
+      "decreases",
+      "stays the same",
+      "increases",
+      "becomes zero",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-023",
+    "chapter": 11,
+    "set": 2,
+    "question": "During recrystallization, large grains __ as they __ smaller grains.",
+    "options": [
+      "become larger; consume",
+      "disappear; become",
+      "become smaller; become",
+      "become larger; break up into",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-024",
+    "chapter": 11,
+    "set": 2,
+    "question": "Hot working is done at temperatures that are __ the melting temperature of the metal.",
+    "options": [
+      "above",
+      "at",
+      "less than half",
+      "greater than half",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-025",
+    "chapter": 11,
+    "set": 2,
+    "question": "Hot working of a metal __ its yield-strength.",
+    "options": [
+      "lowers",
+      "increases",
+      "keeps constant",
+      "increases then decreases",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-026",
+    "chapter": 11,
+    "set": 2,
+    "question": "Hot working of a metal __ its tensile-strength.",
+    "options": [
+      "lowers",
+      "increases",
+      "keeps constant",
+      "increases then decreases",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-027",
+    "chapter": 11,
+    "set": 2,
+    "question": "In hot rolling, when an equiaxed-grained metal piece is in the process of going through the rollers, its equiaxed grains become __ due to __.",
+    "options": [
+      "more equiaxed; normalization",
+      "more equiaxed; vacancy formation",
+      "elongated grains; dislocation annihilation",
+      "elongated grains; plastic deformation",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-028",
+    "chapter": 11,
+    "set": 2,
+    "question": "The final metal product of the hot-rolling process has newly formed __ grains that have __ from the roller-induced __ grains, due to the high rolling temperature.",
+    "options": [
+      "equiaxed; recrystallized; deformed",
+      "equiaxed; transmuted; deformed",
+      "elongated; recrystallized; equiaxed",
+      "elongated; recovered; equiaxed",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-029",
+    "chapter": 11,
+    "set": 2,
+    "question": "The temperature for complete recrystallization in one hour, of a hot-worked metal is __ the melting temperature.",
+    "options": [
+      "0.3; 0.4",
+      "0.005; 0.006",
+      "3; 6",
+      "300; 600",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch11-s2-030",
+    "chapter": 11,
+    "set": 2,
+    "question": "In general, the temperature for recrystallization of a metal is between __ and __ times that of the melting temperature.",
+    "options": [
+      "0.3; 0.4",
+      "0.005; 0.006",
+      "3; 6",
+      "300; 600",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
