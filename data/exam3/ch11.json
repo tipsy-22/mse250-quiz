@@ -317,7 +317,7 @@
       "1E8",
       "none of the above"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -1049,13 +1049,13 @@
     "set": 2,
     "question": "The temperature for complete recrystallization in one hour, of a hot-worked metal is __ the melting temperature.",
     "options": [
-      "0.3; 0.4",
-      "0.005; 0.006",
-      "3; 6",
-      "300; 600",
+      "above",
+      "at",
+      "one tenth",
+      "half",
       "none of the above"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -1067,7 +1067,7 @@
     "set": 2,
     "question": "In general, the temperature for recrystallization of a metal is between __ and __ times that of the melting temperature.",
     "options": [
-      "0.3; 0.4",
+      "above",
       "0.005; 0.006",
       "3; 6",
       "300; 600",
