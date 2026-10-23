@@ -155,7 +155,7 @@
       "BCT",
       "none of the above"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -345,7 +345,7 @@
     "id": "ch12-s1-020",
     "chapter": 12,
     "set": 1,
-    "question": "The highest shear strength for Pb-Sn solder balls occurs at a composition of about __ % Sn.",
+    "question": "The highest shear strength for Pb-Sn solder balls occurs at a composition of about __ % tin.",
     "options": [
       "0.62",
       "6.2",
@@ -353,7 +353,7 @@
       "620",
       "none of the above"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -602,10 +602,10 @@
       "solidification",
       "liquefaction",
       "melting",
-      "the eutectic reaction",
-      "none of the above"
+      "the eutectoid reaction",
+      "the eutectic reaction"
     ],
-    "correctIndex": 3,
+    "correctIndex": 4,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -656,10 +656,10 @@
       "solidification",
       "liquefaction",
       "melting",
-      "the eutectic reaction",
-      "none of the above"
+      "the eutectoid reaction",
+      "the eutectic reaction"
     ],
-    "correctIndex": 3,
+    "correctIndex": 4,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -690,9 +690,9 @@
     "question": "The region labelled alpha+L on a eutectic phase diagram is a __ region consisting of __.",
     "options": [
       "single phase; single-phase alpha",
-      "two phase; single-phase alpha - liquid",
+      "two phase; single-phase alpha + liquid",
       "single phase; proeutectic liquid",
-      "two-phase; proeutectic alpha - proeutectic liquid",
+      "two-phase; proeutectic alpha + proeutectic liquid",
       "none of the above"
     ],
     "correctIndex": 1,
@@ -708,9 +708,9 @@
     "question": "The region labelled beta+L on a eutectic phase diagram is a __ region consisting of __.",
     "options": [
       "single phase; proeutectic beta",
-      "two-phase; proeutectic beta - liquid",
+      "two-phase; proeutectic beta + liquid",
       "single-phase; proeutectic liquid",
-      "two-phase; proeutectic beta - proeutectic liquid",
+      "two-phase; proeutectic beta + proeutectic liquid",
       "none of the above"
     ],
     "correctIndex": 1,
@@ -725,7 +725,7 @@
     "set": 2,
     "question": "The region labelled alpha+beta on a eutectic phase diagram is a two-phase region consisting of __ phases.",
     "options": [
-      "only proeutectic alpha - beta",
+      "only proeutectic alpha + beta",
       "only eutectic alpha + beta",
       "combinations of proeutectic and eutectic alpha + beta",
       "only proeutectic alpha + eutectic beta",
@@ -851,13 +851,13 @@
     "set": 2,
     "question": "In a Pb-Sn eutectic phase diagram, during the eutectic reaction, liquid forms solid-1 (which is composed of Pb with the __ of __ in it) and solid-2 (composed of Sn with the __ of __ in it).",
     "options": [
-      "liquid limit; fin; solid limit; Pb",
+      "liquid limit; Sn; solid limit; Pb",
       "solubility-limit; Pb; solubility-limit; Sn",
       "solubility-limit; Sn; solubility-limit; Pb",
       "liquid-limit; Pb; solid-limit; Sn",
       "none of the above"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
@@ -872,6 +872,7 @@
       "0.62",
       "6.2",
       "62",
+      "620",
       "none of the above"
     ],
     "correctIndex": 2,
@@ -887,9 +888,9 @@
     "question": "In the Pb-Sn phase diagram, the eutectic temperature is about __ degrees C.",
     "options": [
       "183",
-      "100",
-      "15.5",
-      "1400",
+      "1.83",
+      "18.3",
+      "1830",
       "none of the above"
     ],
     "correctIndex": 0,
@@ -997,9 +998,10 @@
       "eutectic eutectoid; eutectoid",
       "protetic; peritectoid; protectome",
       "peritectic; peritectoid; monotonic",
+      "Cubic; monoclinic; tetrahedral",
       "none of the above"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "box": 0,
     "correctStreak": 0,
     "lastSeen": null,
