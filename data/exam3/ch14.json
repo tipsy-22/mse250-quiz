@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ch14-s1-001",
+    "chapter": 14,
+    "set": 1,
+    "question": "The Fe-Fe3C phase diagram can be used to understand the various _, _ and _ of Fe and C.",
+    "options": [
+      "densities; masses; elements",
+      "phases; microstructures; reactions",
+      "elements; microstructures; processes",
+      "phases; volumes; reactions",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-002",
+    "chapter": 14,
+    "set": 1,
+    "question": "A steel’s _ can determine its mechanical properties.",
+    "options": [
+      "microstructure",
+      "volume",
+      "mass",
+      "time",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-003",
+    "chapter": 14,
+    "set": 1,
+    "question": "An auto frame is often made of a _ steel.",
+    "options": [
+      "cast iron",
+      "low carbon",
+      "stainless",
+      "high tungsten",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-004",
+    "chapter": 14,
+    "set": 1,
+    "question": "Nuts and Bolts are often made of _ steels.",
+    "options": [
+      "Pb-Sn",
+      "Au-Pd",
+      "medium carbon",
+      "cast iron",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-005",
+    "chapter": 14,
+    "set": 1,
+    "question": "The teeth of mechanical gears are often made of _ steels.",
+    "options": [
+      "cast iron",
+      "stainless",
+      "ferrite",
+      "high carbon",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-006",
+    "chapter": 14,
+    "set": 1,
+    "question": "In the Fe-C eutectoid transformation, FCC austenite transforms into _ and BCC _.",
+    "options": [
+      "pearlite; cementite",
+      "Fe3C carbide; martensite",
+      "Fe3C carbide; alpha-ferrite",
+      "martensite; pearlite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-007",
+    "chapter": 14,
+    "set": 1,
+    "question": "The phase diagram can be used to determine the chemical _ of the phases in an alloy.",
+    "options": [
+      "pressures",
+      "compositions",
+      "times",
+      "densities",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-008",
+    "chapter": 14,
+    "set": 1,
+    "question": "The phase diagram can be used to predict what the _ of the alloy will look like.",
+    "options": [
+      "microstructure",
+      "mass =",
+      "density",
+      "pressure",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-009",
+    "chapter": 14,
+    "set": 1,
+    "question": "At the _ point, the alloy is the strongest.",
+    "options": [
+      "terminal",
+      "solidus",
+      "solvus",
+      "hypoeutectic",
+      "eutectic"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-010",
+    "chapter": 14,
+    "set": 1,
+    "question": "The lines inside a phase diagram show the _ between _ of _ phases.",
+    "options": [
+      "dislocations; grains; similar",
+      "boundaries; regions; different",
+      "grain-boundaries; grains; different",
+      "masses; densities; various",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-011",
+    "chapter": 14,
+    "set": 1,
+    "question": "Alpha iron consists of an iron _ with _ of carbon dissolved in the iron.",
+    "options": [
+      "ferrite; a substitutional solid-solution",
+      "matrix; an interstitial solid-solution",
+      "matrix; an intermetallic compound",
+      "solute; an intermetallic solvent",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-012",
+    "chapter": 14,
+    "set": 1,
+    "question": "Beta iron consists of aniron _ with _ of carbon dissolved in the iron.",
+    "options": [
+      "ferrite; a substitutional solid-solution",
+      "matrix; an interstitial solid-solution",
+      "matrix; an intermetallic compound",
+      "solute; an intermetallic solvent",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-013",
+    "chapter": 14,
+    "set": 1,
+    "question": "A hypoeutectic Fe-C alloy has a composition with _ than the eutectic alloy.",
+    "options": [
+      "less carbon",
+      "less eutectic",
+      "more carbon",
+      "more eutectic",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-014",
+    "chapter": 14,
+    "set": 1,
+    "question": "A hypereutectic Fe-C alloy has a composition with _ than the eutectic alloy.",
+    "options": [
+      "less carbon",
+      "less eutectic",
+      "more carbon",
+      "more eutectic",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-015",
+    "chapter": 14,
+    "set": 1,
+    "question": "The microstructure of a Pb-Sn sample has only lines (thin sheets) of alpha and beta phases if it has a _ composition.",
+    "options": [
+      "hypoeutectic",
+      "eutectic",
+      "hypereutectic",
+      "peritectic",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-016",
+    "chapter": 14,
+    "set": 1,
+    "question": "The microstructure of a Pb-Sn sample has nodules of alpha-phase and lines (thin sheets) of alpha and beta phases if it has a _ composition.",
+    "options": [
+      "hypoeutectic",
+      "eutectic",
+      "hypereutectic",
+      "peritectic",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-017",
+    "chapter": 14,
+    "set": 1,
+    "question": "The microstructure of a Pb-Sn sample has nodules of beta-phase and lines (thin aE — alpha and beta phases if it has a _ composition.",
+    "options": [
+      "hypoeutectic",
+      "eutectic",
+      "hypereutectic",
+      "peritectic",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-018",
+    "chapter": 14,
+    "set": 1,
+    "question": "Large-scale architecture such as skyscrapers, tall buildings, and large bridges became possibl when _ was developed.",
+    "options": [
+      "iron",
+      "steel",
+      "carbon",
+      "clay",
+      "sand"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-019",
+    "chapter": 14,
+    "set": 1,
+    "question": "Ferrite or alpha-iron is comparatively _.",
+    "options": [
+      "hard",
+      "soft",
+      "brittle",
+      "superconducting",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-020",
+    "chapter": 14,
+    "set": 1,
+    "question": "Austenite or gamma-iron is comparatively _.",
+    "options": [
+      "ductile",
+      "hard",
+      "brittle",
+      "superconducting",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-021",
+    "chapter": 14,
+    "set": 1,
+    "question": "Fe3C or cementite is _.",
+    "options": [
+      "a hard ceramic",
+      "a soft ceramic",
+      "a hard polymer",
+      "a soft polymer",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-022",
+    "chapter": 14,
+    "set": 1,
+    "question": "The naming convention for steel is of the form _, were X and Y are _.",
+    "options": [
+      "XY; integers",
+      "YYXXX; integers",
+      "YYXXX; fractions",
+      "XY; fractions",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-023",
+    "chapter": 14,
+    "set": 1,
+    "question": "The first 2-3 digits of the name (designation) a steel give us the _.",
+    "options": [
+      "percentage carbon",
+      "percentage iron",
+      "percentage steel",
+      "stainless type",
+      "alloy type"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-024",
+    "chapter": 14,
+    "set": 1,
+    "question": "A 10xx steel is a _ steel with _ alloy elements.",
+    "options": [
+      "chromium; magnetic",
+      "plain carbon; no",
+      "Nickel-enriched; Nickel",
+      "cast iron; carbon",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-025",
+    "chapter": 14,
+    "set": 1,
+    "question": "A 43xx steel is a _ steel with _ alloy elements.",
+    "options": [
+      "chromium; magnetic",
+      "plain carbon; no",
+      "polonium-enriched; polonium",
+      "low alloy; Ni,Cr,Mo",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-026",
+    "chapter": 14,
+    "set": 1,
+    "question": "The second 2-3 digits of the name (designation) a steel give us the _.",
+    "options": [
+      "alloy type",
+      "% carbon x 100",
+      "% steel x 100",
+      "% iron x 100",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-027",
+    "chapter": 14,
+    "set": 1,
+    "question": "Steel YY80 has _ wt% carbon.",
+    "options": [
+      "0.8",
+      "8",
+      "80",
+      "800",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-028",
+    "chapter": 14,
+    "set": 1,
+    "question": "Steel YY100 has _ wt% carbon.",
+    "options": [
+      "10",
+      "1",
+      "100",
+      "1000",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-029",
+    "chapter": 14,
+    "set": 1,
+    "question": "As the carbon content of a steel increases, its yield strength _.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s1-030",
+    "chapter": 14,
+    "set": 1,
+    "question": "As the carbon content of a steel increases, its tensile strength _.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-001",
+    "chapter": 14,
+    "set": 2,
+    "question": "As the carbon content of a steel increases, its hardness _.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-002",
+    "chapter": 14,
+    "set": 2,
+    "question": "As the carbon content of a steel increases, its elongation (in response to a given tensile-stress)",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-003",
+    "chapter": 14,
+    "set": 2,
+    "question": "As the carbon content of a steel increases, its % reduction in cross-sectional area (in response to a given tensile-stress) _.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-004",
+    "chapter": 14,
+    "set": 2,
+    "question": "As the carbon content of a steel increases, its Izod impact energy (needed to fracture a part) _.",
+    "options": [
+      "increases",
+      "decreases",
+      "stays the same",
+      "oscillates between decreasing and increasing",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-005",
+    "chapter": 14,
+    "set": 2,
+    "question": "Aeutectoid steel has _ wt% carbon.",
+    "options": [
+      "7.6",
+      "0.76",
+      "76",
+      "7600",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-006",
+    "chapter": 14,
+    "set": 2,
+    "question": "A eutectoid steel forms _ upon cooling down from the melt.",
+    "options": [
+      "austenite",
+      "pearlite",
+      "pure cementite",
+      "martensite",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-007",
+    "chapter": 14,
+    "set": 2,
+    "question": "Pearlite consists of eutectoid _ plus _.",
+    "options": [
+      "Fe3C; alpha iron",
+      "alpha iron; beta iron",
+      "alpha iron; Fe3C",
+      "martensite; cementite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-008",
+    "chapter": 14,
+    "set": 2,
+    "question": "Pearlite consists of _ and _.",
+    "options": [
+      "ferrite; cementite",
+      "austenite; ferrite",
+      "ferrite; martensite",
+      "martensite; cementite",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-009",
+    "chapter": 14,
+    "set": 2,
+    "question": "When a eutectoid steel melt is cooled down, carbon must diffuse from _ to form _ and _. This results in a lamellar structure called _.",
+    "options": [
+      "ferrite; cementite; pearlite; austenite;",
+      "austenite; ferrite; cementite; pearlite",
+      "cementite; pearlite; austenite; ferrite",
+      "pearlite; austenite; ferrite; cementite",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-010",
+    "chapter": 14,
+    "set": 2,
+    "question": "The Pearlite microstructure is composed of alternating _ or _ of alpha ferrite and Fe3C cementite.",
+    "options": [
+      "equiaxed grains; square grains",
+      "triangles; squares",
+      "platelets; spears",
+      "platelets; lamellae",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-011",
+    "chapter": 14,
+    "set": 2,
+    "question": "Pearlite isa _ andnota _.",
+    "options": [
+      "microstructure; phase",
+      "phase; microstructure",
+      "compound; element",
+      "element; compound",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-012",
+    "chapter": 14,
+    "set": 2,
+    "question": "Pearlite is not a _ itself but consists of two _, ferrite and cementite.",
+    "options": [
+      "element; elements",
+      "phase; phases",
+      "compound; compounds",
+      "mixture; mixtures",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-013",
+    "chapter": 14,
+    "set": 2,
+    "question": "In the eutectoid reaction, a FCC, _ Fe-rich alloy phase with a large _ of carbon, decomposes into a BCC _ phase and a carbide.",
+    "options": [
+      "low-temperature; insolubility; high-temperature",
+      "low-temperature; solubility; low-temperature",
+      "high-temperature; insolubility; high-temperature",
+      "high-temperature; solubility; low-temperature",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-014",
+    "chapter": 14,
+    "set": 2,
+    "question": "The end product of the eutectoid reaction in the Fe-C phase diagram is _.",
+    "options": [
+      "cementite",
+      "ferrite",
+      "pearlite",
+      "austenite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-015",
+    "chapter": 14,
+    "set": 2,
+    "question": "The microstructure of a hypoeutectoid steel (< 0.8wt% C) consists of _ grains and _ grainlike regions that are themselves composed of _ of alpha-ferrite and cementite.",
+    "options": [
+      "cementite; ferrite; equiaxed grains",
+      "alpha-ferrite; pearlite; platelets",
+      "austenite; ferrite; equiaxed grains",
+      "martensite; cementite; equiaxed platelets",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-016",
+    "chapter": 14,
+    "set": 2,
+    "question": "One microstructure of a hypereutectoid steel (> 0.8wt% C) consists of _ grain-like regions that are themselves composed of _ of alpha-ferrite and cementite, surrounded by thin bands of _.",
+    "options": [
+      "cementite; proeutectoid ferrite",
+      "austenite; cementite",
+      "pearlite; proeutectoid cementite",
+      "cementite; martensite",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-017",
+    "chapter": 14,
+    "set": 2,
+    "question": "As ahypereutectoid steel is cooled from a high temperature, gamma-iron (austenite) convert: to _ plus gamma-iron. Upon further cooling, the gamma iron then decomposes into _ plus _ tc form _.",
+    "options": [
+      "cementite; proeutectoid ferrite; pearlite; Fe3C",
+      "proeutectoid cementite (Fe3C); alpha-iron; Fe3C; pearlite",
+      "proeutectoid ferrite; pearlite; Fe3C; cementite;",
+      "alpha-iron; Fe3C; pearlite; proeutectoid cementite (Fe3C)",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-018",
+    "chapter": 14,
+    "set": 2,
+    "question": "The phase diagram of steel can be used to explain its _ and _.",
+    "options": [
+      "mass; volume",
+      "mass; density",
+      "microstructure; pressure",
+      "microstructure; properties",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-019",
+    "chapter": 14,
+    "set": 2,
+    "question": "The microstructure of a steel is due to its composition with respect to the _ composition.",
+    "options": [
+      "eutectic",
+      "peritectic",
+      "eutectoid",
+      "peritectoid",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-020",
+    "chapter": 14,
+    "set": 2,
+    "question": "Given the composition and temperature, the Fe-Fe3C phase diagram gives us the _ present.",
+    "options": [
+      "phases",
+      "elements",
+      "Masses",
+      "volumes",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-021",
+    "chapter": 14,
+    "set": 2,
+    "question": "Given the composition and temperature of a given alloy, the Fe-Fe3C phase diagram gives us the _ of each _ that is present.",
+    "options": [
+      "mechanical properties; element",
+      "chemical composition; phase",
+      "magnetic composition; compound",
+      "electric properties; phase",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-022",
+    "chapter": 14,
+    "set": 2,
+    "question": "Given the composition and temperature, the Fe-Fe3C phase diagram gives us the _ of each _ that is present.",
+    "options": [
+      "volume; element",
+      "volume; phase",
+      "mass; element",
+      "mass; phase",
+      "weight fraction; phase"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-023",
+    "chapter": 14,
+    "set": 2,
+    "question": "Eutectoid steel has _ wt% carbon.",
+    "options": [
+      "0.0076",
+      "7.6",
+      "76",
+      "0.76",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-024",
+    "chapter": 14,
+    "set": 2,
+    "question": "Hypoeutectoid steels contain _ 0.76 wt% carbon.",
+    "options": [
+      "more than",
+      "less than",
+      "exactly",
+      "much more than",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-025",
+    "chapter": 14,
+    "set": 2,
+    "question": "Hypereutectoid steels contain _ 0.76 wt% carbon.",
+    "options": [
+      "less than",
+      "exactly E",
+      "more than ——",
+      "much more than",
+      "none of the above"
+    ],
+    "correctIndex": 2,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-026",
+    "chapter": 14,
+    "set": 2,
+    "question": "Hypoeutectoid steels contain _ and _.",
+    "options": [
+      "beta; pearlite",
+      "proeutectoid alpha; cementite",
+      "alpha; ferrite",
+      "martensite; austenite",
+      "proeutectoid alpha; pearlite"
+    ],
+    "correctIndex": 4,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-027",
+    "chapter": 14,
+    "set": 2,
+    "question": "Hypereutectoid steels contain _ and _.",
+    "options": [
+      "martensite; austenite",
+      "proeutectoid Fe3C; pearlite",
+      "beta ferrite; pearlite",
+      "alpha; ferrite",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-028",
+    "chapter": 14,
+    "set": 2,
+    "question": "The microstructures and associated properties of steels depend on their _.",
+    "options": [
+      "stress",
+      "composition",
+      "strain",
+      "pressure",
+      "none of the above"
+    ],
+    "correctIndex": 1,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-029",
+    "chapter": 14,
+    "set": 2,
+    "question": "The cooling rate of a heated steel can affect its _ and _.",
+    "options": [
+      "microstructure; properties",
+      "mass; volume",
+      "density; volume",
+      "microstructure; pressure",
+      "none of the above"
+    ],
+    "correctIndex": 0,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  },
+  {
+    "id": "ch14-s2-030",
+    "chapter": 14,
+    "set": 2,
+    "question": "Steel is an iron alloy that contains _ to _ % carbon.",
+    "options": [
+      "2;21",
+      "20;210",
+      "0.002; 0.0021",
+      "0.2; 2.1",
+      "none of the above"
+    ],
+    "correctIndex": 3,
+    "box": 0,
+    "correctStreak": 0,
+    "lastSeen": null,
+    "dueAt": null
+  }
+]
